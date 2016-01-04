@@ -1,0 +1,160 @@
+\documentclass[10pt,openright,twoside,a4paper,compress]{book}
+
+%% For defining all text/page measurements. 170x240mm is the
+%% standard thesis page size Ponsen & Looijen require. 124x185mm is
+%% simply a text body size that resulted in margins that pleased me.
+%% The dvips option will be superseded if pdflatex is used, but is
+%% necessary in order to generate a correct PostScript bounding box
+%% under standard LaTeX.
+\usepackage[vcentering,dvips]{geometry}                 % for making it 170 x 240 mm
+\geometry{papersize={170mm,240mm},total={130mm,195mm}}  % area of text is 130 x 195mm
+%\geometry{papersize={170mm,240mm},total={130mm,203mm}}  % area of text is 130 x 195mm
+%\usepackage[cam,a4,center]{crop}                       % putting crop marks
+%\usepackage[a4,center]{crop}                            % no crop marks
+\usepackage{graphicx}
+% only for mac to solve ps2pdf problems
+%\usepackage{epstopdf}
+%\epstopdfDeclareGraphicsRule{.eps}{pdf}{.pdf}{%
+%/usr/bin/pstopdf #1 -o \OutputFile
+%}
+\addtolength{\evensidemargin}{-0.85cm} \addtolength{\oddsidemargin}{0.85cm}% slightly unbalance the left and right pages
+\usepackage[toc,page,title,titletoc]{appendix}
+\usepackage{amsmath}
+\usepackage{bm}
+\usepackage{dcolumn} % Align table columns on decimal point
+\usepackage{fancyhdr,fancybox}
+\usepackage[caption=false]{subfig}
+\usepackage[T1]{fontenc}
+\usepackage{ae,aecompl}             % computer modern in T1 encoding.
+\usepackage[small,bf]{caption}%footnotesize %caption for figures and tables
+\usepackage{afterpage} %forces floats to be placed after the command \afterpage{\clearpage} , is not that useful actually, but gives power :)
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{newlfont}
+\newenvironment{abstract}{\rightskip1in\itshape}{}	%to allow abstract in every chapter
+\usepackage[english]{babel}
+\usepackage[active]{srcltx}  %SRC Specials for DVI search
+\usepackage{url} %clickable urls
+\hfuzz2pt % Don't bother to report over-full boxes if over-edge is < 2pt
+\pagestyle{headings}
+\selectlanguage{english}
+
+\linespread{1.1}
+
+%-------------------------------------
+%% BIBLIOGRAPHY:
+%\RequirePackage[sectionbib]{chapterbib} %you'll need to download these packages - they are not standard
+\usepackage[sectionbib]{chapterbib} %bib in every chapter
+%\usepackage[sectionbib]{chapterbib,natbib} %bib in every chapter
+\usepackage[sectionbib]{natbib}%does this work to get a sorted reference list
+%\citestyle{nature}
+\renewcommand{\bibname}{References} %  will print "REFERENCES" instead of "BIBLIOGRAPHY"
+
+
+%%% Fancy Header %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Fancy Header Style Options
+\pagestyle{fancy}                       % Sets fancy header and footer
+\fancyhf{} % clear all header and footer fields
+
+% left page footer
+%\fancyfoot[LE,RO]{\sffamily\footnotesize UltraCold Ion Beam Source}
+
+% right page footer
+%\fancyfoot[C]{\sffamily\footnotesize -- Confidential --}
+\fancyfoot[C]{\bfseries\sffamily\footnotesize N. Debernardi}
+%\fancyfoot[RE,LO]{\sffamily\footnotesize Eindhoven University of Technology}
+
+\renewcommand{\chaptermark}[1]{\markboth{\chaptername\ \thechapter.\ #1}{}} % Lower Case Chapter marker style
+\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}         % Lower case Section marker style
+\fancyhead[LE,RO]{\bfseries\thepage}    % Page number (boldface) in left on even
+                                        % pages and right on odd pages
+\fancyhead[RE]{\bfseries\leftmark}      % Chapter in the right on even pages
+\fancyhead[LO]{\bfseries\rightmark}     % Section in the left on odd pages
+\renewcommand{\headrulewidth}{0.3pt}    % Width of head rule
+%\renewcommand{\footrulewidth}{0.3pt}    % Width of foot rule
+%\renewcommand{\footskip}{3pt}              % Distance of foot rule from text body
+
+%%% Clear Header %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Clear Header Style on the Last Empty Odd pages
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside \ifodd\c@page\else%
+    \hbox{}%
+    \thispagestyle{empty}%              % Empty header styles
+    \newpage%
+    \if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother
+
+\makeatletter \DeclareRobustCommand\onlinecite{\@onlinecite}
+\def\@onlinecite#1{\begingroup\let\@cite\NAT@citenum\citealp{#1}\endgroup}
+\makeatother
+
+\begin{document}
+
+\pagestyle{empty} \pagenumbering{roman} \frontmatter
+
+\newpage
+
+\include{titlepage} %Preface
+
+%if you want to dedicate the thesis to someone:
+\newpage
+\pagestyle{empty} \mbox{} \vfill
+\begin{flushright}
+\sl
+\Large{A me stesso}\\
+\end{flushright}
+\cleardoublepage
+
+\pagestyle{fancy}
+\markboth{Contents}{} % toegevoegd in een poging de capitals te onderdrukken
+
+\chapter*{Contents}
+{\def\chapter*#1{} \tableofcontents }
+
+\vspace{2 cm}
+This thesis is partially based on the following publications:
+\begin{itemize}
+  \item Chapter \ref{ch:tempmea}:\\
+  \underline{N. Debernardi}, M.P. Reijnders, W.J. Engelen, T.T.J. Clevis, P.H.A. Mutsaers, O.J. Luiten, and E.J.D. Vredenbregt in J. Appl. Phys. \textbf{110}, 024501 (2011).
+ \item Chapter \ref{ch:currentmea}:\\
+  \underline{N. Debernardi}, R.W.L. van Vliembergen, W.J. Engelen, K.H.M. Hermans, M.P. Reijnders, S.B. van der Geer, P.H.A. Mutsaers, O.J. Luiten, and E.J.D. Vredenbregt in xxx \textbf{xxx}, xxx (xxxx).
+ \item Chapter \ref{ch:newsource}:\\
+  \underline{N. Debernardi}, R.P.M.J.W. Notermans, D.J.N. Kusters, S.B. van der Geer, P.H.A. Mutsaers, O.J. Luiten and E.J.D. Vredenbregt in xxx \textbf{xxx}, xxx (xxxx).
+\end{itemize}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\mainmatter
+\pagenumbering{arabic}
+\setcounter{page}{1}
+%\include{Chapter1/Chapter1} %Introduction
+\include{Thesis_setup} 
+\include{Thesis_tempmea} 
+\include{Thesis_currentmea}
+\include{Thesis_newsource} 
+%\include{Thesis_conclusions} 
+
+%\addcontentsline{toc}{chapter}{Epilogue}
+%\include{Epilogue}
+
+%\addcontentsline{toc}{chapter}{Summary}
+%\include{Summary}
+%\addcontentsline{toc}{chapter}{Samenvatting}
+%\include{Samenvatting}
+%\addcontentsline{toc}{chapter}{List of publications}
+%\include{ListOfPublications}
+%\addcontentsline{toc}{chapter}{Curriculum vitae}
+%\include{CurriculumVitae}
+
+%\addcontentsline{toc}{chapter}{List of presentations}
+%\include{ListOfPresentations}
+%\addcontentsline{toc}{chapter}{Acknowledgements}
+%\include{Acknowledgements}
+%\bibliographystyle{plain}
+%\bibliographystyle{amsplain}
+
+\bibliographystyle{unsrt}
+\bibliography{thesis_biblio}
+
+\end{document}

@@ -1,0 +1,98 @@
+\documentclass[12pt,a4paper,openright]{book}
+
+
+\usepackage[T1]{fontenc}
+\usepackage{ae,aecompl}             % computer modern in T1 encoding.
+\usepackage{a4wide}
+\usepackage{graphicx}
+\usepackage{epsfig}
+%\usepackage{afterpage}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{fancyhdr}
+\usepackage{float}
+%\usepackage[normal,footnotesize,bf,up]{caption}
+\usepackage[normal,small,bf,up]{caption}
+\usepackage{sectsty}                % for customizing section headings.
+%\usepackage{pstricks}
+\usepackage{textcomp}               % for the trademark symbol.
+%\usepackage{varioref}               % nice references.
+\usepackage{placeins}
+\usepackage{booktabs}
+\usepackage[square,sort&compress,numbers]{natbib}
+\usepackage[toc,page,title,titletoc]{appendix}
+\usepackage[top=35mm,bottom=35mm,left=25mm,right=19mm]{geometry}
+\usepackage[sectionbib]{chapterbib} % should be loaded before babel.
+\usepackage[british,dutch,english]{babel}
+\selectlanguage{english}
+\linespread{1.1}
+
+\input{thesisdef2.def}
+
+
+
+
+
+\begin{document}
+
+\selectlanguage{british}
+\pagenumbering{Roman}
+
+\date{\today}
+\frontmatter
+  \include{Thesis_titelblad_v2}
+%   \setcounter{page}{1}
+  \tableofcontents
+
+
+\vspace{1cm}
+This thesis is partially based on the following publications:
+\begin{itemize}
+  \item Chapter \ref{Ch:UCIsim}:\\
+  S.B. van der Geer, \underline{M.P.~Reijnders} et al. J. Appl. Phys. \textbf{102}, 094312 (2007).
+
+  \item Chapter \ref{Ch:Energyspread}:\\
+  \underline{M.P. Reijnders}, P.A. van Kruisbergen, et al. Phys. Rev. Lett. \textbf{102}, 034802 (2009).
+
+  \item Chapter \ref{Ch:timedependent_short}:\\
+  \underline{M.P. Reijnders}, N. Debernardi et al. Phys. Rev. Lett. \textbf{105}, 034802 (2010).
+\end{itemize}
+
+
+%\begin{itemize}
+%  \item S.B. van der Geer, \underline{M.P.~Reijnders}, M.J. de Loos,
+%E.J.D. Vredenbregt, P.H.A. Mutsaers, and O.J. Luiten in
+%J. Appl. Phys. \textbf{102}, 094312 (2007). (Chapter \ref{Ch:UCIsim})
+%
+%  \item \underline{M.P. Reijnders}, P.A. van Kruisbergen, G. Taban, S.B. van der Geer, P.H.A. Mutsaers, E.J.D. Vredenbregt and O.J. Luiten in Phys. Rev. Lett. \textbf{102}, 034802 (2009). (Chapter \ref{Ch:Energyspread})
+%
+%  \item \underline{M.P. Reijnders}, N. Debernardi, S.B. van der Geer, P.H.A. Mutsaers, E.J.D. Vredenbregt and O.J. Luiten has been accepted for publication in Phys. Rev. Lett. (2010). (Chapter \ref{Ch:timedependent_short})
+%\end{itemize}
+
+
+
+\mainmatter
+  \pagenumbering{arabic}
+ \include{Thesis_Introduction_v3}
+ \include{Thesis_UCI_sim}
+ \include{Thesis_ExpSetup}
+ \include{Thesis_Energyspread}
+ \include{Thesis_timedependent_short_adapted_v10}
+ \include{Thesis_timedependent_long_adapted_v8b}
+ \include{Thesis_Prospects_v3}
+ \include{Thesis_Conclusions_v3}
+
+
+
+\backmatter
+ \include{Thesis_Summary_v3}
+ \include{Thesis_Samenvatting}
+ \include{Thesis_ListPublish}
+ \include{Thesis_Nawoord}
+ \include{Thesis_CV}
+
+ %  \thispagestyle{empty}\phantom{ }\newpage
+ %  \thispagestyle{empty}\phantom{ }\newpage
+ %  \thispagestyle{empty}\phantom{ }\newpage
+
+\end{document}

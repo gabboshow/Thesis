@@ -1,0 +1,315 @@
+%\documentclass[]{iopart}
+%\documentclass[10pt,a4paper]{paper}
+
+%\usepackage{graphicx}% Include figure files
+%\usepackage{dcolumn}% Align table columns on decimal point1
+%\usepackage{bm}% bold math
+%\usepackage[caption=false]{subfig}
+
+%\begin{document}
+%\title{Introduction}
+
+\chapter[Introduction]{Introduction\label{ch:intro}}
+
+\begin{abstract}
+The work described in this thesis covers the research on two kinds of laser-cooled ion sources for focused ion beam (FIB) applications. An ion source is an apparatus capable of providing a beam of ions preferably with a high phase space density. This introduction chapter summarizes the applications of FIBs and gives an overview of existing ion sources. The reduced brightness and the energy spread are useful figures of merit used to characterize an ion source and the definitions are given here. Finally, an outline of this thesis is given.
+\end{abstract}
+
+\clearpage
+
+\section{Overview of focused ion beam applications}
+Miniaturization is a central theme in modern fabrication technology and many of the components used in modern products are becoming smaller and smaller \cite{Moore_E_65, itrs}. Nanotechnology tools have to keep up with this trend by improving minimum achievable resolution. FIB systems have in common high-brightness ion sources capable of producing high phase space density beams \cite{Orloff_RoSI_93, Orloff_Book_03}. They can create structures with few nanometer precision, remove or add material through ion bombardment or beam-induced chemistry. Imaging is also possible, although damages are dominant at the smallest scales. Figure \ref{fig:applications} shows three examples of the most common applications of FIBs: imaging (a), milling (b) and deposition (c). 
+\begin{figure}[tbh!]
+    \centering
+    \subfloat[Imaging]{
+        \label{a1}
+        \includegraphics[width=0.3\linewidth]{pics/intro/appl1}}
+    \hspace{.1in}
+    \subfloat[Milling]{
+        \label{a2}
+        \includegraphics[width=0.3\linewidth]{pics/intro/appl2}}
+    \hspace{.1in}
+    \subfloat[Deposition]{
+        \label{a3}
+        \includegraphics[width=0.3\linewidth]{pics/intro/appl3}}
+    \caption{Three examples of application of FIBs. The figure is taken from \cite{Reyntjens2001}.}
+    \label{fig:applications}
+\end{figure}
+
+A focused ion beam microscope operates along the same principle as the scanning electron microscope (SEM), in that a beam of charged particles is scanned across a specimen, and the resultant signals at each raster position are plotted to form an image. The signal comes from a multichannel plate detector (MCP), see figure \ref{a1}. However, in FIBs the charged particle beam consists not of electrons, but rather of ions, which are typically positively charged. Because of the short De Broglie wavelength of the ions, FIBs have achieved spatial resolution rivaling that of the standard scanning electron microscope. Today's state-of-the-art FIBs are capable of imaging with a few nm spatial resolution, using secondary electrons or ions, i.e. secondary ion mass spectrometry (SIMS). Figure \ref{fig:FIBschem} shows a typical schematic of a FIB ion column.
+\begin{figure}[tbh!]
+    \centering
+        \includegraphics[width=0.5\linewidth]{pics/intro/FIBschem}
+    \caption{Schematic drawing of a FIB column \cite{Reyntjens2001}.}
+    \label{fig:FIBschem}
+\end{figure}
+The ions are produced by the source at the top of the column. After a first refinement through the spray aperture, the ion beam is focused by a first electrostatic lens and the spherical aberration is reduced with an octopole. The variable aperture is used to skim the beam to the desirable current. Blanking of the beam is accomplished by the blanking
+deflector and aperture, while the lower octopole is used for raster scanning the beam over the sample in a user-defined pattern \cite{nahering_86}. In the second electrostatic lens, the beam is focused to a fine spot. The multichannel plate (MCP) is used to detect secondary particles for imaging.
+
+The use of FIBs as precision sectioning tools down to sub-micron scale, creating a precise cut or cross-section from a few tens of nm with positional placement accuracy on the order of 20~nm is well exploited in the industry, see figure \ref{a2}. FIB has recently become a popular tool in making high-quality microdevices or high-precision microstructures \cite{Tseng2004}. Also, their ability to deposit metals and insulators on a micron scale is of large importance, introducing several different gases into the vacuum chamber to either deposit a range of materials up to tens of micrometers thickness over areas ranging from the sub-micrometers to tens of thousands of square micrometers or selectively etch one material rapidly, see figure \ref{a3}. 
+
+Moreover, FIBs have been adopted into the product cycle of semiconductor manufacturers in the late 1980s. In 1986, the number of FIB fabrication systems totaled about 35; in 1998, the number had increased 15-25 times \cite{Phaneuf1999}. FIBs are highly exploited in device modification, mask repair, process control and failure analysis \cite{Glanville1989, Ward1988, Stewart1995}. 
+in addition, the preparation of specimens for transmission electron microscopy (TEM) is an important application \cite{Walker1995}.
+
+
+\section{Overview of the existing ion sources for FIBs}
+In the past few years, the interest in focused ion beams has seen another significant increase because of the development of a few distinct ion sources, which can expand the capabilities of these instruments. FIB systems based on high-brightness gallium liquid-metal ion sources (LMIS) became commercially available in the late 1980s \cite{Hagen_J_08}. The LMIS \cite{Orloff_Book_03} is currently the most often used source in commercial instruments. The current is extracted from an extremely sharp tip (of the diameter of several nanometers) by applying high electric fields. Gallium is the most used element in the LMIS and this is also an important limitation for these sources. Expanding the choice of atomic species beyond gallium opens up new applications of FIBs. Also, the resolution of a FIB based on a LMIS is limited to a few nanometers due to chromatic aberration associated with the energy spread of the source ($\approx 4.5$~eV FWHM \cite{Bell_JVSTB_88}). The resolution of a microscope using a LMIS will therefore not be enough in the near future as the size of semiconductors is getting smaller and smaller \cite{Moore_E_65, itrs}. The gas field ionization source (GFIS) \cite{Ward_JVSTB_06} uses much lighter He$^+$ (Ne$^+$) ions, enabling much higher resolution imaging. Long lifetime (this only applies to the Helium source, for Neon the lifetime is up to ten hours \cite{Notte2010}) and high brightness operation are its most important features. The resolution obtained with an ion microscope based on GFIS is probably unbeatable, but the milling capacities are quite poor. Especially due to the high penetration in the sample, the sputter yield is very low, despite the advantage of having a really high brightness \cite{Tan2010}. In order to improve the milling application, an inductive-coupled plasma source is being developed \cite{Smith2006}. This source uses Ar$^+$ and Xe$^+$ ion beams that can remove material almost contamination-free.
+
+Laser-cooled ion sources as the ultracold ion source (UCIS) \cite{Claessens2005} and the magneto-optical trap ion source (MOTIS) \cite{Hanssen_PRA_06}, promise to expand the choice of ions available for FIB applications and aim to improve the milling and circuit editing capability for FIBs. Those sources can in principle be configured to produce ions of over twenty different elements \cite{Steele_JVSTB_10}. Both UCIS and MOTIS use the principle of laser-cooling and trapping of neutral atoms \cite{Metcalf_Book_99}, which are photo-ionized and accelerated to form a ion beam. Those sources aim to achieve high brightness, comparable to the LMIS (10$^6$~A/m$^2$~sr~eV \cite{Hagen_J_08}), by using an extended source with a very low transversal temperature (a few hundreds of microkelvin), rather than extracting the ions from a ``point source'' with typically temperatures of about $10^4$~K. Having an extended source is advantageous for the energy spread because the space charge density is reduced. Moreover, the probe is less sensitive to vibrations and instabilities, as one typically experiences with point sources. In previous works, sub-micrometer focusability of the extracted ion beam has been demonstrated \cite{Steele_JVSTB_10} and the beam energy spread has been measured down to 20 meV \cite{Reijnders_PRL_09}. Time-dependent manipulation of pulsed ion beams has been shown in references \cite{Reijnders_PRL_10, Reijnders_JAP_11} and is successfully used for the measurements presented in chapter \ref{ch:tempmea}.
+
+%To avoid disorder-induced heating of the UCIS \cite{Geer_JAP_07} and the MOTIS \cite{Steele_JAP_11}, another laser-cooled source with a much higher particle flux is proposed in chapter 6. 
+
+Finally, laser-cooled sources have been successful in the production of bright electron beams for ultrafast electron diffraction \cite{Taban_EPL_10, Mcculloch2011}. 
+
+\section{Source characterization: useful figures of merit}
+%When characterizing an ion source, only two figures of merit are of most importance: the brightness and the longitudinal energy spread.
+%The reduced (transversal) brightness $B_r$ \cite{Luiten2007} is the current density per unit of solid angle and beam energy and is a in Lorentz-invariant. In units of [A/m$^2$~sr~eV], the reduced brightness is defined as
+%\begin{equation}
+%	B_r = \frac{2 I}{4 \pi^2 m c^2 \epsilon_n^x \epsilon_n^y},
+%	\label{eq:red_brightness_intro}
+%\end{equation}
+%where $I$ is the current and $\epsilon_n^x$ and $\epsilon_n^y$ are the normalized \textit{rms}-emittance of the beam in the $x$ and $y$ direction (in this thesis, the ions always propagate along the $z$-axis). In the previous equation, a factor $e$ (the elementary charge) is removed in order to express the unit of brightness in $eV$ instead of $V$. The normalized \textit{rms}-emittance $\epsilon_n^x$ is defined as
+%\begin{equation}
+%	\epsilon_n^x = \frac{1}{m c} \sqrt{\langle x^2 \rangle \langle p_x^2 \rangle - \langle x p_x \rangle^2} = \frac{1}{c} \sqrt{\langle x^2 \rangle \langle v_x^2 \rangle - \langle x v_x \rangle^2}.
+%	\label{eq:norm_emittance_intro}
+%\end{equation}
+%where $c$ is the speed of light, $x$ is the position of a particle and the notation $\langle~\rangle$ implies an average over a set of particles. In the previous equation, the substitution of the non-relativistic momentum $p_x = m v_x$ is used (ions at energies up to 15~keV are non-relativistic). The normalized \textit{rms} emittance $\epsilon_y^n$ is defined similarly. Filling equation (\ref{eq:norm_emittance_intro}) in equation (\ref{eq:red_brightness_intro}), the reduced brightness can be rewritten as
+The quality of charged-particle beams can be expressed in terms of the current density per unit solid angle, or brightness $B$, and the longitudinal energy spread $\Delta U$. Brightness increases with beam energy $U$, therefore a convenient figure of merit is the so-called reduced brightness $B_r$, which is independent of the beam energy. For a thermal source of temperature $T$ the reduced brightness is given by \cite{Hawkes1989}
+\begin{equation}
+	B_r=\frac{e J}{\pi k_b T},
+	\label{eq:re_brightness_source}
+\end{equation}
+where $k_b$ is Boltzmann's constant, $J$ is the current density and $e$ is the electron charge. From this equation, it is clear why decreasing the source size (which is the conventional approach of LMIS and GFIS) or decreasing the source temperature (alternative approach of laser-cooled sources as UCIS, MOTIS and ABLIS) is beneficial to achieve a high brightness, as already stated in the previous section.
+
+In term of beam parameters, the reduced brightness is given by
+\begin{equation}
+	B_r = \frac{I}{4\pi^2~\epsilon_r^x~\epsilon_r^y},
+	\label{eq:red_brightness2_intro}
+\end{equation}
+using the beam current $I$ and the reduced root-mean-squared (\textit{rms}) emittance in the $x$($y$)-direction $\epsilon_r^x$($\epsilon_r^y$) (since ions propagate along the $z$-axis). The emittance is a measure for the focusability of the beam, and in the $x$-direction is given by
+\begin{equation}
+	\epsilon_r^x = \sqrt{\frac{m}{2}} \sqrt{\langle x^2 \rangle \langle v_x^2 \rangle - \langle x v_x \rangle^2},
+	\label{eq:red_emittance_intro}
+\end{equation}
+where $m$ is the ion mass, $x$ is the ion position with respect to the optical axis, $v_x$ is the velocity and $\langle ... \rangle$ denotes averaging over the beam. A similar definition can be given for the quantity $\epsilon_r^y$.
+In a beam waist, equation (\ref{eq:red_emittance_intro}) can be derived from the usual definition of reduced emittance $\epsilon_r^x=\sigma_x \sigma_{x'} \sqrt{U}$ that can be found in literature \cite{Floettmann2003}.
+
+An interesting property of the UCIS is its low energy spread. The \textit{rms} energy spread $\sigma_U$ is an intrinsic property of an UCIS. It is proportional to the accelerating field $E_0$ in the source and the \textit{rms} length of the ionization laser volume $\sigma_i$ as
+\begin{equation}
+	\sigma_U = e E_0 \sigma_i.
+	\label{eq:en_spread}
+\end{equation}
+Typically for our setup $\sigma_U=0.9$~eV ($rms$), which is obtained using $\sigma_i=31~\mu$m and $E_0=29$~kV/m as shown in chapter 4. This number is lower than the 50\% energy spread of a LMIS (4.5~eV).
+
+The attainable spot diameter $d_{50}$ (50 \%) \cite{Kruit_NIaMiPRSAASDaAE_95, Kruit1997}, for a chromatic aberration limited source, is connected to the energy spread and the reduced brightness as
+\begin{equation}
+	d_{50}=\left(\frac{I~C_C^2~\sigma_U^2}{B_r~V_a^3}\right)^{1/4},
+	\label{eq:minspot}
+\end{equation}
+where $C_C$ is the chromatic aberration coefficient of the focusing system, and $V_a$ is the voltage applied to accelerate the ions. Typically, $C_C=20$~mm and $V_a=30$~kV for FIB columns \cite{Geer_JAP_07}. For instance, a FIB equipped with a gallium LMIS ($Br=10^6$~A/m$^2$~sr~eV and $\Delta U=4.5$~eV), can focus the ion beam down to a few nanometers spot size. 
+
+
+\section{This thesis}
+This thesis is based on three scientific papers, either already published or submitted for publication (chapters \ref{ch:tempmea}, \ref{ch:currentmea} and \ref{ch:newsource}). In chapter \ref{ch:setup}, the experimental setup is presented, focusing on details that were not covered in the publications. Chapter \ref{ch:tempmea} and \ref{ch:currentmea} are based on experiments performed with the UCIS, aiming to measure the reduced brightness. Chapter \ref{ch:tempmea} deals with the measurement of the ion source temperature; an upper limit for the emittance and thus for the source temperature is obtained. This chapter uses a technique, developed in our group, to focus an ion beam with the use of time-dependent electric fields. In chapter \ref{ch:currentmea}, a model of the current that can be extracted from an UCIS is presented and validated with measurements. To estimate the ultimate performance of the UCIS, based on the combined results of chapter 3 and 4, simulations of disorder-induced heating using realistic parameters obtained from the measurements are discussed. The general conclusion is that the UCIS can not increase the brightness and at the same time decrease the longitudinal energy spread beyond that of the LMIS: one of the two quantities needs to be sacrificed with respect to the other one. To overcome this problem, chapter \ref{ch:newsource} presents a new kind of source, also based on laser-cooling, and summarize a series of simulations where it is shown that even taking into account the disorder induced heating, the source performs better than the LMIS. Finally, chapter \ref{ch:concl} summarizes the main conclusions of the thesis and gives an outlook for the future of laser-cooled ion sources for FIBs. Here, a comparison of the properties of the existing sources and the ones discussed in this thesis is also given.
+
+\clearpage
+
+\bibliographystyle{unsrt}
+%\bibliography{biblio}
+
+\begin{thebibliography}{10}
+
+\bibitem{Moore_E_65}
+G.~E.~Moore.
+\newblock {C}ramming more components onto integrated circuits.
+\newblock {\em Electronics}, 38/8, 1965.
+
+\bibitem{itrs}
+http://www.itrs.net/.
+
+\bibitem{Orloff_RoSI_93}
+J.~Orloff.
+\newblock {H}igh-resolution focused ion beams.
+\newblock {\em Rev. Sci. Instrum.}, 64(5):1105--1130, 1993.
+
+\bibitem{Orloff_Book_03}
+J.~Orloff, M.~Utlaut, and Swanson L.
+\newblock {\em {H}igh {R}esolution {F}ocused {I}on {B}eams: {FIB} and {I}ts
+  {A}pplications}.
+\newblock Kluwer Academic, 2003.
+
+\bibitem{Reyntjens2001}
+S.~Reyntjens and R.~Puers.
+\newblock A review of focused ion beam applications in microsystem technology.
+\newblock {\em J. Micromech. Microeng.}, 11:287--300, 2001.
+
+\bibitem{nahering_86}
+F.K. Naerring and G. Otto.
+\newblock {E}lectrostatic Octupole for Micro-Beam Deflection.
+\newblock {\em Phys. Stat. Sol. (a)}, 94, 859, 1986.
+
+\bibitem{Phaneuf1999}
+M.~W. Phaneuf.
+\newblock Applications of focused ion beam microscopy to material science
+  specimens.
+\newblock {\em Micron}, 30:277--288, 1999.
+
+\bibitem{Glanville1989}
+J.~Glanville.
+\newblock Focused ion beam technology for integrated circuit modification.
+\newblock {\em Solid State Technol.}, 32:270, 1989.
+
+\bibitem{Ward1988}
+B.~W. Ward, N.~P. Economou, D.~C. Shaver, J.~E. Ivory, M.~L. Ward, and L.~A.
+  Stern.
+\newblock Microcircuit modification using focused ion beams.
+\newblock In {\em Proc. SPIE}, page~92, 1988.
+
+\bibitem{Stewart1995}
+D.~K. Stewart, A.~F. Doyle, and Casey J.~D. Jr.
+\newblock Focused ion beam deposition of new materials: dielectric films for
+  device modification and mask repair, and ta films for x-ray mask repair.
+\newblock In {\em Proc. SPIE}, page 276, 1995.
+
+\bibitem{Walker1995}
+J.~F. Walker, J.~C. Reiner, and C.~Solenthaler.
+\newblock Focused ion beam sample preparation for tem.
+\newblock In {\em Proc. Microsc. Semicond. Mater. Conf.}, page 629, 1995.
+
+\bibitem{Tseng2004}
+A.~A. Tseng.
+\newblock Recent developments on micromilling using focused ion beam
+  technology.
+\newblock {\em J. Micromech. Microeng}, 14:R15--R34, 2004.
+
+\bibitem{Hagen_J_08}
+C.~W. Hagen, E.~Fokkema, and P.~Kruit.
+\newblock {B}rightness measurements of a gallium liquid metal ion source.
+\newblock {\em J Vac Sci Technol B}, 26(6):2091--2096, 2008.
+
+\bibitem{Bell_JVSTB_88}
+A.E. Bell, K.~Rao, G.A. Schwind, and L.W. Swanson.
+\newblock A low-current liquid metal ion source.
+\newblock {\em J. Vac. Sci. Technol. B}, 6:927--931, 1988.
+
+\bibitem{Ward_JVSTB_06}
+B.W. Ward, J.A. Notte, and N.P. Economou.
+\newblock {H}elium ion microscope: {A} new tool for nanoscale microscopy and
+  metrology.
+\newblock {\em J. Vac. Sci. Technol. B}, 24/6:2871--2874, 2006.
+
+\bibitem{Tan2010}
+S.Tan, R. Livengood, D. Shima, J. Notte, and S. McVey.
+\newblock 54th international conference on electron, ion and photon beam technology and nanofabrication / Focused Ion Beams.
+\newblock In {\em Gas field ion source and liquid metal ion source charged particle material interaction study for semiconductor nanomachining applications}. J. Vac. Sci. Technol. B 28, C6F15, 2010.
+
+\bibitem{Notte2010}
+J. Notte, F. Rahman, S. McVey, S. Tan, and R. H. Livengood
+\newblock Neon Gas Field Ion Source – Stability and Lifetime.
+\newblock {\em Microsc. and Microanal.}, 16(2), 2010.
+
+\bibitem{Smith2006}
+N.~S. Smith, W.~P. Skoczylas, S.~M. Kellogg, D.~E. Kinion, P.~P. Tesch,
+  O.~Sutherland, A.~Aanesland, and R.~W. Boswell.
+\newblock High brightness inductively coupled plasma source for high current
+  focused ion beam applications.
+\newblock {\em J. Vac. Sci. Technol. B}, 24(6):2902--2906, 2006.
+
+\bibitem{Claessens2005}
+B.~J. Claessens, S.~B. van~der Geer, G.~Taban, E.~J.~D. Vredenbregt, and O.~J.
+  Luiten.
+\newblock {U}ltracold {E}lectron {S}ource.
+\newblock {\em Phys. Rev. Lett.}, 95(16):164801, 2005.
+
+\bibitem{Hanssen_PRA_06}
+J.~L. Hanssen, J.~J. McClelland, E.~A. Dakin, and M.~Jacka.
+\newblock {L}aser-cooled atoms as a focused ion-beam source.
+\newblock {\em Phys. Rev. A: At. Mol. Opt. Phys.}, 74(6):063416, 2006.
+
+\bibitem{Steele_JVSTB_10}
+A.~V. Steele, B.~Knuffman, J.~J. McClelland, and J.~Orloff.
+\newblock {F}ocused chromium ion beam.
+\newblock {\em J Vac Sci Technol B}, 28(6):C6F1--C6F5, 2010.
+
+\bibitem{Metcalf_Book_99}
+H.J. Metcalf and P.~van~der Straten.
+\newblock {\em {L}aser {C}ooling and {T}rapping}.
+\newblock Springer, 1999.
+
+\bibitem{Reijnders_PRL_09}
+M.~P. Reijnders, P.~A. van Kruisbergen, G.~Taban, S.~B. van~der Geer, P.~H.~A.
+  Mutsaers, E.~J.~D. Vredenbregt, and O.~J. Luiten.
+\newblock {L}ow-{E}nergy-{S}pread {I}on {B}unches from a {T}rapped {A}tomic
+  {G}as.
+\newblock {\em Phys. Rev. Lett.}, 102(3):034802, 2009.
+
+\bibitem{Reijnders_PRL_10}
+M.~P. Reijnders, N.~Debernardi, S.~B. van~der Geer, P.~H.~A. Mutsaers, E.~J.~D.
+  Vredenbregt, and O.~J. Luiten.
+\newblock {P}hase-{S}pace {M}anipulation of {U}ltracold {I}on {B}unches with
+  {T}ime-{D}ependent {F}ields.
+\newblock {\em Phys. Rev. Lett.}, 105(3):034802, 2010.
+
+\bibitem{Reijnders_JAP_11}
+M.~P Reijnders, N.~Debernardi, S.B. van~der Geer, P.H.A. Mutsaers, E.J.D.
+  Vredenbregt, and O.J. Luiten.
+\newblock {T}ime-dependent manipulation of ultracold ion bunches.
+\newblock {\em J. Appl. Phys.}, 109:033302, 2011.
+
+\bibitem{Geer_JAP_07}
+S.~B. van~der Geer, M.~P. Reijnders, M.~J. de~Loos, E.~J.~D. Vredenbregt,
+  P.~H.~A. Mutsaers, and O.~J. Luiten.
+\newblock {S}imulated performance of an ultracold ion source.
+\newblock {\em J. Appl. Phys.}, 102(9):094312, 2007.
+
+\bibitem{Steele_JAP_11}
+A.~V. Steele, B.~Knuffman, and J.~J. McClelland.
+\newblock {I}nter-ion coulomb interactions in a magneto-optical trap ion
+  source.
+\newblock {\em J. Appl. Phys.}, 109(10):104308, 2011.
+
+\bibitem{Taban_EPL_10}
+G.~Taban, M.~P. Reijnders, B.~Fleskens, S.~B. van~der Geer, O.~J. Luiten, and
+  E.~J.~D. Vredenbregt.
+\newblock {U}ltracold electron source for single-shot diffraction studies.
+\newblock {\em EPL (Europhysics Letters)}, 91(4):46004, 2010.
+
+\bibitem{Mcculloch2011}
+A.~J. Mcculloch, D.~V. Sheludko, M.~Junker, S.~C. Bell, S.~D. Saliba, K.~A.
+  Nugent, and R.~E. Scholten.
+\newblock Arbitrary shaped high-coherence electron bunches from ultracold
+  plasma.
+\newblock {\em Nature Physics}, 7:785--788, 2011.
+
+\bibitem{Luiten2007}
+O.~J. Luiten, B.~J. Claessens, S.~B. van~der Geer, M.~P. Reijnders, G.~Taban,
+  and E.~J.~D. Vredenbregt.
+\newblock Proceedings of the 46th workshop of the infn eloisatron project.
+\newblock In {\em The physics and applications of high brightness electron
+  beams}. World Scientific Publishing Co. Pte. Ltd., 2007.
+    
+\bibitem{Hawkes1989}
+P.~W. Hawkes and E. Kasper.
+\newblock in {\em Principles of electronoptics, vol. 2: Applied geometrical optics}. 
+\newblock Academic Press (London), 1989.
+    
+\bibitem{Floettmann2003}
+K.~Floettmann.
+\newblock Some basic features of the beam emittance.
+\newblock {\em Phys. Rev. ST AB}, 6, 034202, 2003. 
+
+\bibitem{Kruit_NIaMiPRSAASDaAE_95}
+P.~Kruit, L.~J. Vijgen, and Jiang Xinrong.
+\newblock {C}oulomb interactions in microfocussed electron and ion beams.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  363(1-2):220 -- 224, 1995.
+
+\bibitem{Kruit1997}
+P.~Kruit, and H.~Jansen.
+\newblock {\em Space charge and statistical Coulomb effects}.
+\newblock in {\em Handbook of charged particle optics}.
+\newblock Ed. Jon Orloff, CRC Press, New York, 1997.
+    
+\end{thebibliography}
+%\end{document}

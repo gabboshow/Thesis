@@ -1,0 +1,176 @@
+\documentclass[10pt,openright,twoside,a4paper]{book}
+%\linespread{1.1}
+
+%Packages
+\usepackage[vcentering,dvips]{geometry}                 % for making it 170 x 240 mm
+\geometry{papersize={170mm,240mm},total={130mm,185mm}}  % I changed 195 to 185 because I have subscript areas The area of text of Marco is 130 x 195mm
+\addtolength{\evensidemargin}{-0.85cm} \addtolength{\oddsidemargin}{0.85cm}% slightly unbalance the left and right pages
+\usepackage{graphicx}		% include graphics
+\usepackage{dcolumn}
+\usepackage{bm}
+\usepackage[toc,page,title,titletoc]{appendix}
+\usepackage[caption=false]{subfig}
+\usepackage{fancyhdr}		% fancy header and footer
+\usepackage[T1]{fontenc}
+\usepackage{ae,aecompl}             % computer modern in T1 encoding.
+\usepackage{amssymb,amsmath}
+\usepackage{afterpage}
+\usepackage[normal,small,bf,up]{caption}
+\usepackage{wrapfig}
+%\usepackage[normal,footnotesize,bf,up]{caption}
+%\usepackage[english]{babel}
+\usepackage[active]{srcltx}  %SRC Specials for DVI search
+\usepackage{url} %clickable urls
+%\selectlanguage{english}
+\newenvironment{abstract}{\rightskip1in\itshape}{}	%to allow abstract in every chapter
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\hfuzz2pt % Don't bother to report over-full boxes if over-edge is < 2pt
+\pagestyle{headings}
+
+%\usepackage{epsfig}
+%\usepackage{hyperref}	% make a pdf with links
+%\usepackage{float}
+%\usepackage{sectsty}                % for customizing section headings.
+%\usepackage{textcomp}               % for the trademark symbol.
+%\usepackage{varioref}               % nice references.
+%\usepackage{placeins}
+%\usepackage{booktabs}
+%\usepackage[square,sort&compress,numbers]{natbib}
+
+%-------------------------------------
+%% BIBLIOGRAPHY:
+\usepackage[sectionbib]{chapterbib} %bib in every chapter
+%\usepackage[sectionbib]{natbib}%does this work to get a sorted reference list?
+%\citestyle{nature}
+\renewcommand{\bibname}{References} %  will print "REFERENCES" instead of "BIBLIOGRAPHY"
+
+% to have the chapter title in the center with an horizontal line on the name...
+\makeatletter %from http://zoonek.free.fr/LaTeX/LaTeX_samples_chapter/0.html
+\def\thickhrulefill{\leavevmode \leaders \hrule height 1ex \hfill \kern \z@}
+\def\@makechapterhead#1{%
+  \vspace*{10\p@}%
+  {\parindent \z@ \centering \reset@font
+        {\Huge\bfseries \thechapter }
+        \par\nobreak
+        \vspace*{10\p@}%
+        \interlinepenalty\@M
+        \hrule
+        \vspace*{10\p@}%
+        \Huge \bfseries #1\par\nobreak
+        \par
+        \vspace*{10\p@}%
+    \vskip 100\p@
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{10\p@}%
+  {\parindent \z@ \centering \reset@font
+        {\Huge\bfseries \vphantom{\thechapter} }
+        \par\nobreak
+        \vspace*{10\p@}%
+        \interlinepenalty\@M
+        \hrule
+        \vspace*{10\p@}%
+        \Huge \bfseries #1\par\nobreak
+        \par
+        \vspace*{10\p@}%
+    \vskip 100\p@
+  }}
+
+%%% Fancy Header %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Fancy Header Style Options
+\pagestyle{fancy}                       % Sets fancy header and footer
+\fancyhf{} % clear all header and footer fields
+
+% left page footer
+%\fancyfoot[LE,RO]{\sffamily\footnotesize UltraCold Ion Beam Source}
+
+% right page footer
+%\fancyfoot[C]{\sffamily\footnotesize -- Confidential --}
+\fancyfoot[CO]{\sffamily\footnotesize Nicola Debernardi}
+\fancyfoot[CE]{\sffamily\footnotesize Eindhoven University of Technology}
+
+\renewcommand{\chaptermark}[1]{\markboth{\chaptername\ \thechapter.\ #1}{}} % Lower Case Chapter marker style
+\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}         % Lower case Section marker style
+\fancyhead[LE,RO]{\bfseries\thepage}    % Page number (boldface) in left on even
+                                        % pages and right on odd pages
+\fancyhead[RE]{\bfseries\leftmark}      % Chapter in the right on even pages
+\fancyhead[LO]{\bfseries\rightmark}     % Section in the left on odd pages
+\renewcommand{\headrulewidth}{0.3pt}    % Width of head rule
+\renewcommand{\footrulewidth}{0.3pt}    % Width of foot rule
+%\renewcommand{\footskip}{3pt}              % Distance of foot rule from text body
+
+%%% Clear Header %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Clear Header Style on the Last Empty Odd pages
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside \ifodd\c@page\else%
+    \hbox{}%
+    \thispagestyle{empty}%              % Empty header styles
+    \newpage%
+    \if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother
+
+\makeatletter \DeclareRobustCommand\onlinecite{\@onlinecite}
+\def\@onlinecite#1{\begingroup\let\@cite\NAT@citenum\citealp{#1}\endgroup}
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\pagenumbering{Roman}
+
+\date{\today}
+\frontmatter
+\include{titlepage}
+  
+%if you want to dedicate the thesis to someone:
+\newpage
+\pagestyle{empty} \mbox{} \vfill
+\begin{flushright}
+\sl
+\Large{Alla mia famiglia}\\
+\Large{e ai miei amici.}\\
+\end{flushright}
+\cleardoublepage
+
+\pagestyle{fancy}
+\markboth{Contents}{} % toegevoegd in een poging de capitals te onderdrukken
+  \setcounter{page}{1}
+  \tableofcontents
+
+\vspace{5 cm}
+This thesis is partially based on the following publications:
+\begin{itemize}
+  \item Chapter \ref{ch:tempmea}:\\
+  \underline{N. Debernardi}, M.P. Reijnders, W.J. Engelen, T.T.J. Clevis, P.H.A. Mutsaers, O.J. Luiten, and E.J.D. Vredenbregt, \textit{Measurement of the temperature of an ultracold ion source using time-dependent electric fields}, published in J. Appl. Phys. \textbf{110}, 024501 (2011).
+ \item Chapter \ref{ch:currentmea}:\\
+  \underline{N. Debernardi}, R.W.L. van Vliembergen, W.J. Engelen, K.H.M. Hermans, M.P. Reijnders, S.B. van der Geer, P.H.A. Mutsaers, O.J. Luiten, and E.J.D. Vredenbregt, \textit{Optimization of the current extracted from an ultracold ion source}, submitted to New J. Phys.
+ \item Chapter \ref{ch:newsource}:\\
+  \underline{N. Debernardi}, R.P.M.J.W. Notermans, D.J.N. Kusters, S.B. van der Geer, P.H.A. Mutsaers, O.J. Luiten and E.J.D. Vredenbregt, \textit{High brightness ion beam through magneto-optical compression}, submitted to New J. Phys.
+\end{itemize}
+
+\mainmatter
+  \pagenumbering{arabic}
+ \include{Thesis_intro}
+ \include{Thesis_setup}
+ \include{Thesis_tempmea}
+ \include{Thesis_currentmea}
+ \include{Thesis_newsource}
+ \include{Thesis_conclusions}
+
+
+\backmatter
+\addcontentsline{toc}{chapter}{Summary}
+ \markboth{\textsc{Summary}}{}
+ \include{Thesis_summary}
+ % \include{Thesis_Samenvatting}
+\addcontentsline{toc}{chapter}{Curriculum vitae}
+ \markboth{\textsc{Curriculum vitae}}{}
+ \include{Thesis_CV}
+\addcontentsline{toc}{chapter}{Acknowledgements}
+ \markboth{\textsc{Acknowledgements}}{}
+ \include{Thesis_acknowledgements}
+% \include{Thesis_Nawoord}
+
+
+\end{document}
+

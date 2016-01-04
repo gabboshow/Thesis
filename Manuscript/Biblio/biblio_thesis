@@ -1,0 +1,75 @@
+% Encoding: UTF-8
+
+
+@Article{aharony2011social,
+  Title                    = {Social fMRI: Investigating and shaping social mechanisms in the real world},
+  Author                   = {Aharony, Nadav and Pan, Wei and Ip, Cory and Khayal, Inas and Pentland, Alex},
+  Journal                  = {Pervasive and Mobile Computing},
+  Year                     = {2011},
+  Number                   = {6},
+  Pages                    = {643--659},
+  Volume                   = {7},
+  Publisher                = {Elsevier}
+}
+
+@Article{bannach2008rapid,
+  Title                    = {Rapid prototyping of activity recognition applications},
+  Author                   = {Bannach, David and Lukowicz, Paul and Amft, Oliver},
+  Journal                  = {Pervasive Computing, IEEE},
+  Year                     = {2008},
+  Number                   = {2},
+  Pages                    = {22--31},
+  Volume                   = {7},
+  Publisher                = {IEEE}
+}
+
+@Article{franko2012smartphone,
+  Title                    = {Smartphone app use among medical providers in ACGME training programs},
+  Author                   = {Franko, Orrin I and Tirrell, Timothy F},
+  Journal                  = {Journal of medical systems},
+  Year                     = {2012},
+  Number                   = {5},
+  Pages                    = {3135--3139},
+  Volume                   = {36},
+  Publisher                = {Springer}
+}
+
+@InProceedings{huggins2006pocketsphinx,
+  Title                    = {Pocketsphinx: A free, real-time continuous speech recognition system for hand-held devices},
+  Author                   = {Huggins-Daines, David and Kumar, Mohit and Chan, Arthur and Black, Alan W and Ravishankar, Mosur and Rudnicky, Alex and others},
+  Booktitle                = {Acoustics, Speech and Signal Processing, 2006. ICASSP 2006 Proceedings. 2006 IEEE International Conference on},
+  Year                     = {2006},
+  Organization             = {IEEE},
+  Pages                    = {I--I},
+  Volume                   = {1}
+}
+
+@InProceedings{lin2010dandelion,
+  Title                    = {Dandelion: a framework for transparently programming phone-centered wireless body sensor applications for health},
+  Author                   = {Lin, Felix Xiaozhu and Rahmati, Ahmad and Zhong, Lin},
+  Booktitle                = {Wireless Health 2010},
+  Year                     = {2010},
+  Organization             = {ACM},
+  Pages                    = {74--83}
+}
+
+@Article{lockman2011detection,
+  Title                    = {Detection of seizure-like movements using a wrist accelerometer},
+  Author                   = {Lockman, Juliana and Fisher, Robert S and Olson, Donald M},
+  Journal                  = {Epilepsy \& Behavior},
+  Year                     = {2011},
+  Number                   = {4},
+  Pages                    = {638--641},
+  Volume                   = {20},
+  Publisher                = {Elsevier}
+}
+
+@InProceedings{nasehi2011real,
+  Title                    = {Real-time seizure detection based on EEG and ECG fused features using gabor functions},
+  Author                   = {Nasehi, Saadat and Pourghassem, Hossein},
+  Booktitle                = {Intelligent Computation and Bio-Medical Instrumentation (ICBMI), 2011 International Conference on},
+  Year                     = {2011},
+  Organization             = {IEEE},
+  Pages                    = {204--207}
+}
+

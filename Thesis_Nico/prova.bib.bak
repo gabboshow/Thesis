@@ -1,0 +1,605 @@
+% This file was created with JabRef 2.7.
+% Encoding: Cp1252
+
+@ARTICLE{Bell_JVSTB_88,
+  author = {Bell,A.E. and Rao,K. and Schwind,G.A. and Swanson,L.W.},
+  title = {{A} low current liquid metal ion source},
+  journal = {J. Vac. Sci. Technol. B},
+  year = {1988},
+  volume = {6},
+  pages = {927-931},
+  doi = {doi:10.1116/1.584325},
+  owner = {ndebernardi},
+  timestamp = {2012.01.04}
+}
+
+@BOOK{Bevington_Book_03,
+  title = {{D}ata reduction and error analysis for the physical science},
+  publisher = {McGraw-Hill},
+  year = {2003},
+  author = {Bevington, P.R and Robinson, D.K.},
+  __markedentry = {},
+  owner = {ndebernardi},
+  timestamp = {2010.03.05}
+}
+
+@ARTICLE{PhysRevLett.95.164801,
+  author = {Claessens, B. J. and van der Geer, S. B. and Taban, G. and Vredenbregt,
+	E. J. D. and Luiten, O. J.},
+  title = {{U}ltracold {E}lectron {S}ource},
+  journal = {Phys. Rev. Lett.},
+  year = {2005},
+  volume = {95},
+  pages = {164801},
+  number = {16},
+  month = {Oct},
+  __markedentry = {},
+  doi = {10.1103/PhysRevLett.95.164801},
+  numpages = {4},
+  owner = {ndebernardi},
+  publisher = {American Physical Society},
+  timestamp = {2012.01.04}
+}
+
+@ARTICLE{Claessens_PoP_07,
+  author = {B. J. Claessens and M. P. Reijnders and G. Taban and O. J. Luiten
+	and E. J. D. Vredenbregt},
+  title = {{C}old electron and ion beams generated from trapped atoms},
+  journal = {Phys.Plasmas},
+  year = {2007},
+  volume = {14},
+  pages = {093101},
+  number = {9},
+  eid = {093101},
+  __markedentry = {},
+  doi = {10.1063/1.2771518},
+  keywords = {electron beams; ion beams; plasma production; Rydberg states},
+  numpages = {5},
+  owner = {ndebernardi},
+  publisher = {AIP},
+  timestamp = {2012.01.04},
+  url = {http://link.aip.org/link/?PHP/14/093101/1}
+}
+
+@ARTICLE{Debernardi_JAP_11,
+  author = {Debernardi, N. and Reijnders, M.P. and Engelen, W. J. and Clevis,
+	T. T. J. and Mutsaers, P. H. A. and Luiten, O. J. and Vredenbregt,
+	E. J. D.},
+  title = {{M}easurement of the temperature of an ultracold ion source using
+	time-dependent electric fields},
+  journal = {J. Appl. Phys.},
+  year = {2011},
+  volume = {110},
+  pages = {024501},
+  doi = {10.1063/1.3605555},
+  owner = {ndebernardi},
+  timestamp = {2010.11.10}
+}
+
+@ARTICLE{PhysRevA.58.3891,
+  author = {Dieckmann, K. and Spreeuw, R. J. C. and Weidem\"uller, M. and Walraven,
+	J. T. M.},
+  title = {{T}wo-dimensional magneto-optical trap as a source of slow atoms},
+  journal = {Phys. Rev. A},
+  year = {1998},
+  volume = {58},
+  pages = {3891--3895},
+  number = {5},
+  month = {Nov},
+  doi = {10.1103/PhysRevA.58.3891},
+  numpages = {4},
+  owner = {ndebernardi},
+  publisher = {American Physical Society},
+  timestamp = {2012.01.04}
+}
+
+@BOOK{Foot_Book_05,
+  title = {{A}tomic {P}hysics},
+  publisher = {Oxford University Press},
+  year = {2005},
+  author = {Foot, C. J.},
+  __markedentry = {},
+  owner = {ndebernardi},
+  timestamp = {2010.06.17}
+}
+
+@ARTICLE{Gabbanini_OC_97,
+  author = {C. Gabbanini and S. Gozzini and A. Lucchesini},
+  title = {{P}hotoionization cross section measurement in a {R}b vapor cell
+	trap},
+  journal = {Optics Communications},
+  year = {1997},
+  volume = {141},
+  pages = {25 - 28},
+  number = {1-2},
+  doi = {DOI: 10.1016/S0030-4018(97)00214-9},
+  issn = {0030-4018},
+  owner = {ndebernardi},
+  timestamp = {2012.01.04},
+  url = {http://www.sciencedirect.com/science/article/B6TVF-3SR43PT-6/2/8e4f86701cc0886df388f8a7ed569f09}
+}
+
+@ARTICLE{Geer_JoAP_07,
+  author = {van der Geer, S. B. and Reijnders ,M. P. and de Loos, M. J. and Vredenbregt,
+	E. J. D. and Mutsaers, P. H. A. and Luiten, O. J.},
+  title = {{S}imulated performance of an ultracold ion source},
+  journal = {J. Appl. Phys.},
+  year = {2007},
+  volume = {102},
+  pages = {094312},
+  number = {9},
+  eid = {094312},
+  __markedentry = {},
+  doi = {10.1063/1.2804287},
+  numpages = {7},
+  owner = {ndebernardi},
+  publisher = {AIP},
+  timestamp = {2012.01.04},
+  url = {http://link.aip.org/link/?JAP/102/094312/1}
+}
+
+@ARTICLE{1556677,
+  author = {Guharay, S.K. and Orloff, J. and Wada, M.},
+  title = {{I}on beams and their applications in high-resolution probe formation},
+  journal = {Plasma Science, IEEE Transactions on},
+  year = {2005},
+  volume = {33},
+  pages = { 1911 - 1930},
+  number = {6},
+  month = dec.,
+  doi = {10.1109/TPS.2005.860086},
+  issn = {0093-3813},
+  keywords = { Penning-type source; beam brightness; cutting-edge applications;
+	energy spread; focused ion beams; high-charged state sources; high-resolution
+	probe formation; imaging studies; ion beam milling; liquid metal
+	ion source; mask repair; multicusp source; plasma sources; point
+	sources; Penning ion sources; ion beams; liquid metal ion sources;
+	plasma sources;},
+  owner = {ndebernardi},
+  timestamp = {2012.01.04}
+}
+
+@ARTICLE{Hagen_J_08,
+  author = {C. W. Hagen and E. Fokkema and P. Kruit},
+  title = {{B}rightness measurements of a gallium liquid metal ion source},
+  journal = {J Vac Sci Technol B},
+  year = {2008},
+  volume = {26},
+  pages = {2091-2096},
+  number = {6},
+  coden = {JVTBD9},
+  doi = {DOI:10.1116/1.2987958},
+  eissn = {15208567},
+  issn = {10711023},
+  keywords = {brightness; current density; focused ion beam technology; liquid metal
+	ion sources; stochastic processes; Gallium; graphite; },
+  owner = {ndebernardi},
+  publisher = {AVS},
+  timestamp = {2012.01.04},
+  url = {http://dx.doi.org/10.1116/1.2987958}
+}
+
+@ARTICLE{Halbach_PA_76,
+  author = {Halbach, K. and Holsinger, R. F.},
+  title = {{SUPERFISH} - {A} {C}omputer {P}rogram for {E}valuation of {RF} {C}avities
+	with {C}ylindrical {S}ymmetry},
+  journal = {Part. Accel.},
+  year = {1976},
+  volume = {7(4)},
+  pages = {213-222},
+  __markedentry = {},
+  file = {:http\://cdsweb.cern.ch/record/700607/files/p213.pdf:PDF},
+  owner = {ndebernardi},
+  timestamp = {2010.03.12}
+}
+
+@ARTICLE{Hanssen_NL_08,
+  author = {Hanssen, J. L. and Hill, S. B. and Orloff, J. and McClelland, J.
+	J.},
+  title = {{M}agneto-{O}ptical-{T}rap-{B}ased, {H}igh {B}rightness {I}on {S}ource
+	for {U}se as a {N}anoscale {P}robe},
+  journal = {Nano Lett.},
+  year = {2008},
+  volume = {8},
+  pages = {2844--2850},
+  number = {9},
+  month = sep,
+  __markedentry = {},
+  comment = {doi: 10.1021/nl801472n},
+  doi = {10.1021/nl801472n},
+  issn = {1530-6984},
+  owner = {ndebernardi},
+  publisher = {American Chemical Society},
+  timestamp = {2010.03.12},
+  url = {http://dx.doi.org/10.1021/nl801472n}
+}
+
+@ARTICLE{Hanssen_PRA_06,
+  author = {Hanssen, J. L. and McClelland, J. J. and Dakin, E. A. and Jacka,
+	M.},
+  title = {{L}aser-cooled atoms as a focused ion-beam source},
+  journal = {Phys. Rev. A: At. Mol. Opt. Phys.},
+  year = {2006},
+  volume = {74},
+  pages = {063416},
+  number = {6},
+  month = {Dec},
+  __markedentry = {},
+  doi = {10.1103/PhysRevA.74.063416},
+  numpages = {8},
+  owner = {ndebernardi},
+  publisher = {American Physical Society},
+  timestamp = {2012.01.04}
+}
+
+@BOOK{Humphries_Book_96,
+  title = {{P}rincicles of {C}harged {P}article {A}ccelerators},
+  publisher = {University of New Mexico},
+  year = {1996},
+  author = {Humphries, S.},
+  owner = {ndebernardi},
+  timestamp = {2010.11.17}
+}
+
+@MASTERSTHESIS{Karssen_MSc_02,
+  author = {Karssen, L.C.},
+  title = {{B}uilding a {R}ubidium {MOT} {U}sing {P}olarization {S}pectroscopy
+	{S}tabilises {D}iode {L}asers},
+  school = {University of Utrecht},
+  year = {2002},
+  owner = {ndebernardi},
+  timestamp = {2011.06.30}
+}
+
+@ARTICLE{Kruit_NIaMiPRSAASDaAE_95,
+  author = {P. Kruit and L. J. Vijgen and Jiang Xinrong},
+  title = {{C}oulomb interactions in microfocussed electron and ion beams},
+  journal = {Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+	Spectrometers, Detectors and Associated Equipment},
+  year = {1995},
+  volume = {363},
+  pages = {220 - 224},
+  number = {1-2},
+  note = {Charged Particle Optics},
+  __markedentry = {},
+  doi = {DOI: 10.1016/0168-9002(95)00260-X},
+  issn = {0168-9002},
+  owner = {ndebernardi},
+  timestamp = {2012.01.04},
+  url = {http://www.sciencedirect.com/science/article/B6TJM-3YRNX2F-7C/2/c6b68a8e83fc923a770a17ff06fdf718}
+}
+
+@ARTICLE{Luiten_IJoMPA_07,
+  author = {Luiten, O. J. and Claessens, B. J. and van der Geer, S. B. and Reijnders,
+	M. P. and Taban, G. and Vredenbregt, E. J. D.},
+  title = {{U}ltracold {E}lectron {S}ources},
+  journal = {Int. J. Mod. Phys. A},
+  year = {2007},
+  volume = {22/22},
+  pages = {3882-3897},
+  __markedentry = {},
+  owner = {ndebernardi},
+  timestamp = {2010.06.16}
+}
+
+@BOOK{Metcalf_Book_99,
+  title = {{L}aser {C}ooling and {T}rapping},
+  publisher = {Springer},
+  year = {1999},
+  author = {Metcalf, H.J. and van der Straten, P.},
+  __markedentry = {},
+  owner = {ndebernardi},
+  timestamp = {2010.03.05}
+}
+
+@ARTICLE{Monroe_PRL_90,
+  author = {Monroe, C. and Swann, W. and Robinson, H. and Wieman, C.},
+  title = {{V}ery cold trapped atoms in a vapor cell},
+  journal = {Phys. Rev. Lett.},
+  year = {1990},
+  volume = {65},
+  pages = {1571--1574},
+  number = {13},
+  month = {Sep},
+  doi = {10.1103/PhysRevLett.65.1571},
+  numpages = {3},
+  owner = {ndebernardi},
+  publisher = {American Physical Society},
+  timestamp = {2012.01.04}
+}
+
+@ARTICLE{Moore_E_65,
+  author = {Moore, G.E.},
+  title = {{C}ramming more components onto integrated circuits},
+  journal = {Electronics},
+  year = {1965},
+  volume = {38/8},
+  pages = {114-117},
+  __markedentry = {},
+  owner = {ndebernardi},
+  timestamp = {2010.06.16}
+}
+
+@ARTICLE{Orloff_RoSI_93,
+  author = {Orloff, J.},
+  title = {{H}igh-resolution focused ion beams},
+  journal = {Rev. Sci. Instrum.},
+  year = {1993},
+  volume = {64},
+  pages = {1105-1130},
+  number = {5},
+  __markedentry = {},
+  doi = {10.1063/1.1144104},
+  keywords = {ION BEAMS; RESOLUTION; CURRENT DENSITY; ION SOURCES; DESIGN; PERFORMANCE;
+	REVIEWS},
+  owner = {ndebernardi},
+  publisher = {AIP},
+  timestamp = {2012.01.04},
+  url = {http://link.aip.org/link/?RSI/64/1105/1}
+}
+
+@BOOK{Orloff_Book_03,
+  title = {{H}igh {R}esolution {F}ocused {I}on {B}eams: {FIB} and {I}ts {A}pplications},
+  publisher = {Kluwer Academic},
+  year = {2003},
+  author = {Orloff, J. and Utlaut, M. and Swanson L.},
+  __markedentry = {},
+  owner = {ndebernardi},
+  timestamp = {2010.06.16}
+}
+
+@INCOLLECTION{Raffa_InBook_06,
+  author = {Vittoria Raffa and Piero Castrataro and Arianna Menciassi and Paolo
+	Dario},
+  title = {Focused Ion Beam as a Scanning Probe: Methods and Applications},
+  booktitle = {Applied Scanning Probe Methods II},
+  publisher = {Springer Berlin Heidelberg},
+  year = {2006},
+  editor = {Bharat Bhushan and Harald Fuchs},
+  series = {NanoScience and Technology},
+  pages = {361--412},
+  note = {10.1007/3-540-27453-7\_11},
+  affiliation = {Scuola Superiore Sant’Anna Polo Sant’Anna Valdera — CRIM Lab Viale
+	Rinaldo Piaggio, 34 56025 Pontedera (PI) Italy},
+  isbn = {978-3-540-27453-7},
+  keyword = {Chemistry and Materials Science},
+  owner = {ndebernardi},
+  timestamp = {2012.01.04},
+  url = {http://dx.doi.org/10.1007/3-540-27453-7_11}
+}
+
+@ARTICLE{Reijnders_JAP_11,
+  author = {Reijnders, M. P and Debernardi, N. and van der Geer, S.B. and Mutsaers,
+	P.H.A. and Vredenbregt, E.J.D. and Luiten, O.J.},
+  title = {{T}ime-dependent manipulation of ultracold ion bunches},
+  journal = {J. Appl. Phys.},
+  year = {2011},
+  volume = {109},
+  pages = {033302},
+  __markedentry = {},
+  doi = {10.1063/1.3544009},
+  owner = {ndebernardi},
+  timestamp = {2010.03.16}
+}
+
+@ARTICLE{Reijnders_PRL_10,
+  author = {Reijnders, M. P. and Debernardi, N. and van der Geer, S. B. and Mutsaers,
+	P. H. A. and Vredenbregt, E. J. D. and Luiten, O. J.},
+  title = {{P}hase-{S}pace {M}anipulation of {U}ltracold {I}on {B}unches with
+	{T}ime-{D}ependent {F}ields},
+  journal = {Phys. Rev. Lett.},
+  year = {2010},
+  volume = {105},
+  pages = {034802},
+  number = {3},
+  month = {Jul},
+  __markedentry = {},
+  doi = {10.1103/PhysRevLett.105.034802},
+  numpages = {4},
+  owner = {ndebernardi},
+  publisher = {American Physical Society},
+  timestamp = {2012.01.04}
+}
+
+@ARTICLE{Reijnders_PRL_09,
+  author = {Reijnders, M. P. and van Kruisbergen, P. A. and Taban, G. and van
+	der Geer, S. B. and Mutsaers, P. H. A. and Vredenbregt, E. J. D.
+	and Luiten, O. J.},
+  title = {{L}ow-{E}nergy-{S}pread {I}on {B}unches from a {T}rapped {A}tomic
+	{G}as},
+  journal = {Phys. Rev. Lett.},
+  year = {2009},
+  volume = {102},
+  pages = {034802},
+  number = {3},
+  month = {Jan},
+  __markedentry = {},
+  doi = {10.1103/PhysRevLett.102.034802},
+  numpages = {4},
+  owner = {ndebernardi},
+  publisher = {American Physical Society},
+  timestamp = {2012.01.04}
+}
+
+@BOOK{Reiser_Book_08,
+  title = {{T}heory and {D}esign of {C}harged {P}article {B}eams:},
+  publisher = {Wiley},
+  year = {2008},
+  author = {Reiser, M},
+  owner = {ndebernardi},
+  timestamp = {2011.07.26}
+}
+
+@ARTICLE{PhysRevA.66.023410,
+  author = {Schoser, J. and Bat\"ar, A. and L\"ow, R. and Schweikhard, V. and
+	Grabowski, A. and Ovchinnikov, Yu. B. and Pfau, T.},
+  title = {{I}ntense source of cold {R}b atoms from a pure two-dimensional magneto-optical
+	trap},
+  journal = {Phys. Rev. A},
+  year = {2002},
+  volume = {66},
+  pages = {023410},
+  number = {2},
+  month = {Aug},
+  doi = {10.1103/PhysRevA.66.023410},
+  numpages = {10},
+  owner = {ndebernardi},
+  publisher = {American Physical Society},
+  timestamp = {2012.01.04}
+}
+
+@ARTICLE{Steele_JAP_11,
+  author = {A. V. Steele and B. Knuffman and J. J. McClelland},
+  title = {{I}nter-ion coulomb interactions in a magneto-optical trap ion source},
+  journal = {J. Appl. Phys.},
+  year = {2011},
+  volume = {109},
+  pages = {104308},
+  number = {10},
+  coden = {JAPIAU},
+  doi = {DOI:10.1063/1.3585783},
+  eissn = {10897550},
+  issn = {00218979},
+  keywords = {ion sources; Monte Carlo methods; particle traps; },
+  owner = {ndebernardi},
+  publisher = {AIP},
+  timestamp = {2012.01.04},
+  url = {http://link.aip.org/link/doi/10.1063/1.3585783}
+}
+
+@ARTICLE{Steele_JVSTB_10,
+  author = {A. V. Steele and B. Knuffman and J. J. McClelland and J. Orloff},
+  title = {{F}ocused chromium ion beam},
+  journal = {J Vac Sci Technol B},
+  year = {2010},
+  volume = {28},
+  pages = {C6F1-C6F5},
+  number = {6},
+  coden = {JVTBD9},
+  doi = {DOI:10.1116/1.3502668},
+  eissn = {15208567},
+  issn = {10711023},
+  keywords = {chromium; focused ion beam technology; ion beam effects; ion beams;
+	ion sources; lenses; photoionisation; ray tracing; trapped ions;
+	},
+  owner = {ndebernardi},
+  publisher = {AVS},
+  timestamp = {2012.01.04},
+  url = {http://dx.doi.org/doi/10.1116/1.3502668}
+}
+
+@ARTICLE{Taban_PRSAB_08,
+  author = {Taban, G. and Reijnders, M. P. and Bell, S. C. and van der Geer,
+	S. B. and Luiten, O. J. and Vredenbregt, E. J. D.},
+  title = {{D}esign and validation of an accelerator for an ultracold electron
+	source},
+  journal = {Phys. Rev. Spec. Top. Accel Beams},
+  year = {2008},
+  volume = {11},
+  pages = {050102},
+  number = {5},
+  __markedentry = {},
+  doi = {10.1103/PhysRevSTAB.11.050102},
+  numpages = {8},
+  owner = {ndebernardi},
+  publisher = {American Physical Society},
+  timestamp = {2012.01.04}
+}
+
+@ARTICLE{Taban_EPL_10,
+  author = {G. Taban and M. P. Reijnders and B. Fleskens and S. B. van der Geer
+	and O. J. Luiten and E. J. D. Vredenbregt},
+  title = {{U}ltracold electron source for single-shot diffraction studies},
+  journal = {EPL (Europhysics Letters)},
+  year = {2010},
+  volume = {91},
+  pages = {46004},
+  number = {4},
+  abstract = {Ultracold electron sources, which are based on near-threshold photo-
+	and field-ionization of a cloud of laser-cooled atoms, offer the
+	unique combination of low emittance and extended size that is essential
+	for achieving single-shot, ultrafast electron diffraction of macromolecules.
+	Here we present measurements of the effective temperature of such
+	a pulsed electron source employing rubidium atoms that are magneto-optically
+	trapped at the center of an accelerator structure. Transverse source
+	temperatures ranging from 200 K down to 10 K are demonstrated, controllable
+	with the wavelength of the ionization laser. Together with the 50
+	Î¼m source size, the achievable temperature enables a transverse
+	coherence length of ##IMG## [http://ej.iop.org/icons/Entities/ap.gif]
+	{â‰ˆ} 20 nm for a 100 Î¼m sample size.},
+  owner = {ndebernardi},
+  timestamp = {2012.01.04},
+  url = {http://stacks.iop.org/0295-5075/91/i=4/a=46004}
+}
+
+@BOOK{Vickerman_Book_90,
+  title = {{S}econdary {I}on {M}ass {S}pectroscopy: {P}rinciples and {A}pplications},
+  publisher = {Oxford University Press, USA},
+  year = {1990},
+  author = {Vickerman, J C and Reed, N M and Brown, A},
+  owner = {ndebernardi},
+  timestamp = {2011.07.12}
+}
+
+@ARTICLE{Volkert2007,
+  author = {Volkert, C. A. and Minor, A. M.},
+  title = {Focused Ion Beam Microscopy and Micromachining},
+  journal = {MRS Bulletin},
+  year = {2007},
+  volume = {32},
+  pages = {389-399},
+  owner = {ndebernardi},
+  timestamp = {2012.01.02}
+}
+
+@ARTICLE{Ward_JVSTB_06,
+  author = {Ward, B.W. and Notte, J.A. and Economou, N.P.},
+  title = {{H}elium ion microscope: {A} new tool for nanoscale microscopy and
+	metrology},
+  journal = {J. Vac. Sci. Technol. B},
+  year = {2006},
+  volume = {24/6},
+  pages = {2871-2874},
+  __markedentry = {},
+  owner = {ndebernardi},
+  timestamp = {2010.06.17}
+}
+
+@ARTICLE{Weiss_JB_89,
+  author = {Weiss,D.S. and Riis,E. and Shevy,Y. and Ungar,P.J. and Chu,S.},
+  title = {{O}ptical molasses and multilevel atoms: experiment},
+  journal = {JOSA B},
+  year = {1989},
+  volume = {6},
+  pages = {2072-2083},
+  doi = {10.1364/JOSAB.6.002072},
+  owner = {ndebernardi},
+  timestamp = {2011.08.09}
+}
+
+@MISC{gpt,
+  title = {http://www.pulsar.nl/gpt},
+  __markedentry = {},
+  eprint = {http://www.pulsar.nl/gpt},
+  owner = {ndebernardi},
+  timestamp = {2010.03.11}
+}
+
+@MISC{itrs,
+  title = {http://www.itrs.net/},
+  __markedentry = {},
+  eprint = {http://www.itrs.net/},
+  owner = {ndebernardi},
+  timestamp = {2010.03.11}
+}
+
+@comment{jabref-meta: selector_review:}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+
