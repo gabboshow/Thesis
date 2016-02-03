@@ -1,0 +1,933 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\frenchspacing
+\usepackage{amsmath}
+\usepackage{amssymb}
+\newcommand{\ø}{\raisebox{.3ex}{\tiny$\; \bullet \;$}}
+\renewcommand{\arraystretch}{1.25}
+\usepackage{fancyheadings}
+\pagestyle{fancy}
+\chead{\textit{Gabriele Spina · Curriculum Vitae · 2016}}
+\usepackage{mathpazo}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry true
+\use_amsmath 1
+\use_esint 0
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 0.6in
+\rightmargin 0.75in
+\bottommargin 0.6in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\size large
+GABRIELE SPINA
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Nieuwstraat 29, 5611DA Eindhoven, The Netherlands
+\begin_inset Newline newline
+\end_inset
+
+Telephone: +31628460517 
+\begin_inset Newline newline
+\end_inset
+
+E-mail address: gabbo.spina@gmail.com
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 13pt
+\end_inset
+
+
+\series bold
+Personal Information
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Birthdate 22-10-1986
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Birthplace Palermo (PA), Italy 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Gender Male 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Personal summary
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ A bright, talented and self-motivated biomedical engineer who has excellent
+ organisational skills, is highly efficient and has a good eye for detail.
+ Has extensive experience of setting up experiments, data collection, signal
+ processing and presentation of findings.
+ Able to play a key role in analysing problems and come up with creative
+ solutions as well as producing methodologies and files for effective data
+ management.
+ A quick learner who can absorb new ideas and can communicate clearly and
+ effectively.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Expertise
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ 
+\series bold
+Signal processing, machine learning, data analysis, wearable systems, biomedical
+ devices
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Professional work Experience
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2012--now 
+\series bold
+PhD Student
+\series default
+ at Philips Research, Smart Professional Spaces Group and Eindhoven University
+ of Technology, Dept.
+ of Electrical Engineering.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Unobtrusive technologies, signal processing and data mining algorithms for
+ modular patient training and monitoring systems - iCare4COPD Project of
+ Agentschap NL under Contract PNE101005.
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2011--11 
+\series bold
+Internship
+\series default
+ (Italian Institute of Technology)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+EU project: Robots Bootstrapped through Learning from Experience
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2010--11 
+\series bold
+Research Assistant
+\series default
+ (Frankfurt Institute for Advanced Studies)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+EU project: Intrinsically Motivated Cumulative Learning Versatile Robots
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Achievements
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 First Runner up at Philips Sleep and Respiratory Care's first Creative
+ Playground
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Idea selected for Startup Bootcamp and a project was initiated within Philips
+ business.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Education
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2008--10 university campus bio-medico of rome
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+\emph on
+\noun on
+Master Degree in Biomedical Engineering with honors
+\emph default
+\noun default
+ (110 cum laude out 110)
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Specialization in Robotics and Bio-Microsystems
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Thesis: 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Bio-inspired robotic vision system for active visual perception based on intrinsic motivation"
+target "https://sites.google.com/site/gabbospina/bio-inspired-robotic-vision-system-for-active-visual-perception-based-on-intrinsic-motivation"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Supervisor: 
+\series bold
+Prof.
+ Dr.
+ Eugenio Guglielmelli
+\series default
+ (University Campus Bio-Medico of Rome)
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Co-Supervisors: 
+\series bold
+Prof.
+ Dr.
+ Jochen Triesch
+\series default
+, 
+\series bold
+Eng.
+ Pramod Chandrashekhariah
+\series default
+ (Frankfurt Institute for Advanced Studies)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\noun on
+2005--08 university campus bio-medico of rome
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+\emph on
+\noun on
+Bachelor Degree in Biomedical Engineering (110 out 110)
+\series default
+\emph default
+\noun default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Thesis: 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph default
+
+\begin_inset CommandInset href
+LatexCommand href
+name "Study and realization of a system for the remote control of a wereable device for the monitoring of the face"
+target "https://sites.google.com/site/gabbospina/study-and-realizatioin-of-a-system-for-the-remote-control-of-a-wereable-device-for-the-monitoring-of-the-face"
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Supervisor: 
+\series bold
+Prof.
+ Dr.
+ Eugenio Guglielmelli
+\series default
+ (University Campus Bio-Medico of Rome)
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Co-Supervisor: 
+\series bold
+Dr.
+ Giuseppina Schiavone
+\series default
+ (University Campus Bio-Medico of Rome)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Computer Skills
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Packages Matlab, R, MS Office, OpenCV, Cisco Packet Tracer, Eagle, SolidWorks,
+ Proteus, Latex
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+OS Linux, Windows
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Languages c++, c
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Patent Applications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 Apparatus and methods relating to monitoring or assisting breathing
+ in patients, European Patent application 28-01-2016, Philips Internal Reference
+ 2015PF01649
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 Breathing support system for COPD patients to overcome shortness of
+ breath (breathing tool with feedback), European Patent application 30-10-2015,
+ Philips Internal Reference 2015PF01437
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 Breathing support system for COPD patients to overcome shortness of
+ breath (breathing tool for use with pressurized gas canister), European
+ Patent application 30-10-2015, Philips Internal Reference 2015PF01532
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2014 System and method to detect respiration markers, European Patent applicatio
+n 12-12-2014, Philips Internal Reference 2014PF01453
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Research Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 
+\series bold
+Gabriele Spina
+\series default
+ et al.
+\begin_inset Newline newline
+\end_inset
+
+Objective evaluation of nocturnal sleep impairment in patients with COPD
+ and its association with daytime physical activity
+\begin_inset Newline newline
+\end_inset
+
+Submitted to European Respiratory Journal, 2016.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 Rafael Mesquita, 
+\series bold
+Gabriele Spina
+\series default
+ et al.
+\begin_inset Newline newline
+\end_inset
+
+Physical activity patterns and clusters in 1001 patients with COPD
+\begin_inset Newline newline
+\end_inset
+
+Submitted to PLOS ONE, 2015.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2015 
+\series bold
+Gabriele Spina
+\series default
+ et al.
+\begin_inset Newline newline
+\end_inset
+
+Identifying Physical Activity Profiles in COPD Patients Using Topic Models
+\begin_inset Newline newline
+\end_inset
+
+IEEE Journal of Biomedical and Health Informatics, 2015.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2014 Rafael Mesquita, 
+\series bold
+Gabriele Spina
+\series default
+ et al.
+\begin_inset Newline newline
+\end_inset
+
+Cluster analysis of objectively measured physical activity in 1001 COPD
+ patients
+\begin_inset Newline newline
+\end_inset
+
+ERJ September 1, 2014 vol.
+ 44 no.
+ Suppl 58 3486.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2014 Pramod Chandrashekhariah
+\series bold
+, Gabriele Spina
+\series default
+ and Jochen Triesch
+\begin_inset Newline newline
+\end_inset
+
+A Curious Vision System for Autonomous and Cumulative Object Learning
+\begin_inset Newline newline
+\end_inset
+
+Computer Vision, Imaging and Computer Graphics--Theory and Applications,
+ Springer Berlin Heidelberg, 2014, Volume 458, pp 195-211.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2013 
+\series bold
+Gabriele Spina
+\series default
+ and Oliver Amft
+\begin_inset Newline newline
+\end_inset
+
+Toward smartphone assisted personal rehabilitation training
+\begin_inset Newline newline
+\end_inset
+
+XRDS crossroads, ACM 2015, Volume 20, pp 33-37.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2013 
+\series bold
+Gabriele Spina
+\series default
+, Guannan Huang, Anouk Vaes, Martijn Spruit and Oliver Amft
+\begin_inset Newline newline
+\end_inset
+
+COPDTrainer: A smartphone-based motion rehabilitation training system with
+ real-time acoustic feedback
+\begin_inset Newline newline
+\end_inset
+
+Ubicomp 2013, ACM Internetional Joint Conference on Pervasive and Ubiquitous
+ Computing, 8-12 September, 2013, Zurich, Switzerland.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2013 
+\series bold
+Gabriele Spina
+\series default
+, Frank Roberts, Jens Weppner, Paul Lukowicz and Oliver Amft
+\begin_inset Newline newline
+\end_inset
+
+CRNTC+: A smartphone-based sensor processing framework for prototyping personal
+ healthcare applications
+\begin_inset Newline newline
+\end_inset
+
+PervasiveHealth 2013, IEEE International Conference on Pervasive Computing
+ Technologies for Healthcare, 5-8 May, 2013, Venice, Italy.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2013 
+\series bold
+Gabriele Spina
+\series default
+, Pramod Chandrashekhariah and Jochen Triesch
+\begin_inset Newline newline
+\end_inset
+
+Let it Learn: A Curious Vision System for Autonomous Object Learning
+\begin_inset Newline newline
+\end_inset
+
+International Conference on Computer Vision Theory and Applications, 21-24
+ February, 2013, Barcelona, Spain.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2013 Frank J.M.
+ Roberts, 
+\series bold
+Gabriele Spina
+\series default
+, Constantin Ungureanu, Oliver Amft
+\begin_inset Newline newline
+\end_inset
+
+Daytime Monitoring of Patients with Epileptic Seizures Using a Smartphone
+ Processing Framework and On-Body Sensors
+\begin_inset Newline newline
+\end_inset
+
+4th Dutch Bio-Medical Conference, 2013, 24-25 January, 2013, Egmond aan
+ Zee, The Netherlands.
+ (Abstract)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2012 Jurgen Leitner, Pramod Chandrashekhariah, Simon Harding, Mikhail Frank,
+ 
+\series bold
+Gabriele Spina
+\series default
+, Alexander Forster, Jochen Triesch and Jurgen Schmidhuber
+\begin_inset Newline newline
+\end_inset
+
+Autonomous Learning Of Robust Visual Object Detection And Identification
+ On A Humanoid
+\begin_inset Newline newline
+\end_inset
+
+ICDL-EpiRob paper, 2012, IEEE Conference on Development and Learning, and
+ Epigenetic Robotics, 7-9 November, 2012, San Diego, USA.
+ (Winner of the 
+\begin_inset Quotes eld
+\end_inset
+
+Paper of Excellence Award
+\begin_inset Quotes erd
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Language Skills
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Native Italian
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Fluent English
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Basic Dutch (attended and passed the exam 
+\begin_inset Quotes eld
+\end_inset
+
+Dutch for Beginners
+\begin_inset Quotes erd
+\end_inset
+
+, study hours: 160)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I hereby authorize the processing of the personal data contained in this
+ CV in compliance with the Italian Personal Data Protection Code (Legislative
+ Decree no.
+ 196 of 30 June 2003).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
