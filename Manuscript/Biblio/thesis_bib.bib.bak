@@ -1,6 +1,17 @@
 % Encoding: UTF-8
 
 
+@Article{agusti2011night,
+  Title                    = {Night-time symptoms: a forgotten dimension of COPD},
+  Author                   = {Agusti, A and Hedner, J and Marin, JM and Barb{\'e}, F and Cazzola, M and Rennard, S},
+  Journal                  = {European Respiratory Review},
+  Year                     = {2011},
+  Number                   = {121},
+  Pages                    = {183--194},
+  Volume                   = {20},
+  Publisher                = {Eur Respiratory Soc}
+}
+
 @Article{aharony2011social,
   Title                    = {Social fMRI: Investigating and shaping social mechanisms in the real world},
   Author                   = {Aharony, Nadav and Pan, Wei and Ip, Cory and Khayal, Inas and Pentland, Alex},
@@ -10,6 +21,16 @@
   Pages                    = {643--659},
   Volume                   = {7},
   Publisher                = {Elsevier}
+}
+
+@Article{ancoli2003role,
+  Title                    = {The role of actigraphy in the study of sleep and circadian rhythms. American Academy of Sleep Medicine Review Paper},
+  Author                   = {Ancoli-Israel, S and Cole, R and Alessi, C and Chambers, M and Moorcroft, W and Pollak, C},
+  Journal                  = {Sleep},
+  Year                     = {2003},
+  Number                   = {3},
+  Pages                    = {342--392},
+  Volume                   = {26}
 }
 
 @Article{bannach2008rapid,
@@ -132,6 +153,39 @@
   Pages                    = {1797--1806}
 }
 
+@Article{cormick1986nocturnal,
+  Title                    = {Nocturnal hypoxaemia and quality of sleep in patients with chronic obstructive lung disease.},
+  Author                   = {Cormick, WESLEY and Olson, LESLIE G and Hensley, MICHAEL J and Saunders, NICHOLAS A},
+  Journal                  = {Thorax},
+  Year                     = {1986},
+  Number                   = {11},
+  Pages                    = {846--854},
+  Volume                   = {41},
+  Publisher                = {BMJ Publishing Group Ltd and British Thoracic Society}
+}
+
+@Article{cormick1986nocturnal,
+  Title                    = {Nocturnal hypoxaemia and quality of sleep in patients with chronic obstructive lung disease.},
+  Author                   = {Cormick, WESLEY and Olson, Leslie G and Hensley, MICHAEL J and Saunders, NICHOLAS A},
+  Journal                  = {Thorax},
+  Year                     = {1986},
+  Number                   = {11},
+  Pages                    = {846--854},
+  Volume                   = {41},
+  Publisher                = {BMJ Publishing Group Ltd and British Thoracic Society}
+}
+
+@Article{dam2008association,
+  Title                    = {Association between sleep and physical function in older men: the osteoporotic fractures in men sleep study},
+  Author                   = {Dam, Thuy-Tien L and Ewing, Susan and Ancoli-Israel, Sonia and Ensrud, Kristine and Redline, Susan and Stone, Katie},
+  Journal                  = {Journal of the American Geriatrics Society},
+  Year                     = {2008},
+  Number                   = {9},
+  Pages                    = {1665--1673},
+  Volume                   = {56},
+  Publisher                = {Wiley Online Library}
+}
+
 @InProceedings{de2008triplebeat,
   Title                    = {TripleBeat: enhancing exercise performance with persuasion},
   Author                   = {De Oliveira, Rodrigo and Oliver, Nuria},
@@ -213,6 +267,17 @@
   Publisher                = {BMJ Publishing Group Ltd and British Thoracic Society}
 }
 
+@Article{goldman2007poor,
+  Title                    = {Poor sleep is associated with poorer physical performance and greater functional limitations in older women},
+  Author                   = {Goldman, Suzanne E and Stone, Katie L and Ancoli-Israel, Sonia and Blackwell, Terri and Ewing, Susan K and Boudreau, Robert and Cauley, Jane A and Hall, Martica and Matthews, Karen A and Newman, Anne B},
+  Journal                  = {SLEEP-NEW YORK THEN WESTCHESTER-},
+  Year                     = {2007},
+  Number                   = {10},
+  Pages                    = {1317},
+  Volume                   = {30},
+  Publisher                = {American Academy of Sleep Medicine; 1999}
+}
+
 @Article{graat2011osteoporosis,
   Title                    = {Osteoporosis in COPD outpatients based on bone mineral density and vertebral fractures},
   Author                   = {Graat-Verboom, Lidwien and van den Borne, Ben EEM and Smeenk, Frank WJM and Spruit, Martijn A and Wouters, Emiel FM},
@@ -240,6 +305,17 @@
   Year                     = {2009},
   Organization             = {ACM},
   Pages                    = {85--88}
+}
+
+@Article{hartman2015frequent,
+  Title                    = {Frequent sputum production is associated with disturbed night’s rest and impaired sleep quality in patients with COPD},
+  Author                   = {Hartman, JE and Prinzen, J and van Lummel, RC and ten Hacken, NHT},
+  Journal                  = {Sleep and Breathing},
+  Year                     = {2015},
+  Number                   = {4},
+  Pages                    = {1125--1133},
+  Volume                   = {19},
+  Publisher                = {Springer}
 }
 
 @InProceedings{havens2009contour,
@@ -279,6 +355,17 @@
   Year                     = {2008},
   Organization             = {ACM},
   Pages                    = {10--19}
+}
+
+@Article{kinsman1983symptoms,
+  Title                    = {Symptoms and experiences in chronic bronchitis and emphysema.},
+  Author                   = {Kinsman, Robert A and Yaroush, RA and Fernandez, Enrique and Dirks, Jerald F and Schocket, Marsha and Fukuhara, Jolene},
+  Journal                  = {CHEST Journal},
+  Year                     = {1983},
+  Number                   = {5},
+  Pages                    = {755--761},
+  Volume                   = {83},
+  Publisher                = {American College of Chest Physicians}
 }
 
 @Article{kranz2013mobile,
@@ -331,6 +418,28 @@
   Publisher                = {Elsevier}
 }
 
+@Article{lozano2013global,
+  Title                    = {Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010},
+  Author                   = {Lozano, Rafael and Naghavi, Mohsen and Foreman, Kyle and Lim, Stephen and Shibuya, Kenji and Aboyans, Victor and Abraham, Jerry and Adair, Timothy and Aggarwal, Rakesh and Ahn, Stephanie Y and others},
+  Journal                  = {The Lancet},
+  Year                     = {2013},
+  Number                   = {9859},
+  Pages                    = {2095--2128},
+  Volume                   = {380},
+  Publisher                = {Elsevier}
+}
+
+@Article{marshall2011reducing,
+  Title                    = {Reducing sedentary behavior a new paradigm in physical activity promotion},
+  Author                   = {Marshall, Simon J and Ramirez, Ernesto},
+  Journal                  = {American Journal of Lifestyle Medicine},
+  Year                     = {2011},
+  Number                   = {6},
+  Pages                    = {518--530},
+  Volume                   = {5},
+  Publisher                = {SAGE Publications}
+}
+
 @InProceedings{moller2012gymskill,
   Title                    = {Gymskill: A personal trainer for physical exercises},
   Author                   = {M{\"o}ller, Andreas and Roalter, Luis and Diewald, Stefan and Scherr, Johannes and Kranz, Matthias and Hammerla, Nils and Olivier, Patrick and Pl{\"o}tz, Thomas},
@@ -377,6 +486,17 @@
   Number                   = {10},
   Pages                    = {771--778},
   Volume                   = {125}
+}
+
+@Article{nunes2013actigraphic,
+  Title                    = {Actigraphic assessment of sleep in chronic obstructive pulmonary disease},
+  Author                   = {Nunes, Deuzilane M and de Bruin, Veralice MS and Louzada, Fernando M and Peixoto, Carina AT and Cavalcante, Ant{\^o}nio GM and Castro-Silva, Cl{\'a}udia and de Bruin, Pedro FC},
+  Journal                  = {Sleep and Breathing},
+  Year                     = {2013},
+  Number                   = {1},
+  Pages                    = {125--132},
+  Volume                   = {17},
+  Publisher                = {Springer}
 }
 
 @InProceedings{patel2009using,
