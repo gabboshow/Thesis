@@ -144,6 +144,17 @@
   Publisher                = {Elsevier}
 }
 
+@Article{chesson2007practice,
+  author =    {Chesson Jr, MD and Coleman, MD and Lee-Chiong, MD and Pancer, DDS},
+  title =     {Practice parameters for the use of actigraphy in the assessment of sleep and sleep disorders: an update for 2007},
+  journal =   {Sleep},
+  year =      {2007},
+  volume =    {30},
+  number =    {4},
+  pages =     {519},
+  publisher = {Citeseer}
+}
+
 @Article{colbert2011comparative,
   Title                    = {Comparative validity of physical activity measures in older adults},
   Author                   = {Colbert, Lisa H and Matthews, Charles E and Havighurst, Thomas C and Kim, KyungMann and Schoeller, Dale A},
@@ -673,6 +684,17 @@
   Pages                    = {53},
   Volume                   = {8},
   Publisher                = {Medknow Publications}
+}
+
+@Article{soler2015high,
+  Title                    = {High prevalence of obstructive sleep apnea in patients with moderate to severe chronic obstructive pulmonary disease},
+  Author                   = {Soler, Xavier and Gaio, Eduardo and Powell, Frank L and Ramsdell, Joe W and Loredo, Jose S and Malhotra, Atul and Ries, Andrew L},
+  Journal                  = {Annals of the American Thoracic Society},
+  Year                     = {2015},
+  Number                   = {8},
+  Pages                    = {1219--1225},
+  Volume                   = {12},
+  Publisher                = {Am Thoracic Soc}
 }
 
 @Article{spruit2004exercise,
