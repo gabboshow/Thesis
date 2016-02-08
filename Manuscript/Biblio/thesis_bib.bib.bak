@@ -177,7 +177,7 @@
 
 @Article{cormick1986nocturnal,
   Title                    = {Nocturnal hypoxaemia and quality of sleep in patients with chronic obstructive lung disease.},
-  Author                   = {Cormick, WESLEY and Olson, Leslie G and Hensley, MICHAEL J and Saunders, NICHOLAS A},
+  Author                   = {Cormick, WESLEY and Olson, LESLIE G and Hensley, MICHAEL J and Saunders, NICHOLAS A},
   Journal                  = {Thorax},
   Year                     = {1986},
   Number                   = {11},
@@ -673,17 +673,6 @@
   Pages                    = {53},
   Volume                   = {8},
   Publisher                = {Medknow Publications}
-}
-
-@Article{soler2015high,
-  Title                    = {High prevalence of obstructive sleep apnea in patients with moderate to severe chronic obstructive pulmonary disease},
-  Author                   = {Soler, Xavier and Gaio, Eduardo and Powell, Frank L and Ramsdell, Joe W and Loredo, Jose S and Malhotra, Atul and Ries, Andrew L},
-  Journal                  = {Annals of the American Thoracic Society},
-  Year                     = {2015},
-  Number                   = {8},
-  Pages                    = {1219--1225},
-  Volume                   = {12},
-  Publisher                = {Am Thoracic Soc}
 }
 
 @Article{spruit2004exercise,
