@@ -528,6 +528,15 @@
   Publisher                = {SAGE Publications}
 }
 
+@InProceedings{miwa2007roll,
+  author =       {Miwa, Hiroyasu and Sasahara, S-i and Matsui, Takashi},
+  title =        {Roll-over detection and sleep quality measurement using a wearable sensor},
+  booktitle =    {Engineering in Medicine and Biology Society, 2007. EMBS 2007. 29th Annual International Conference of the IEEE},
+  year =         {2007},
+  pages =        {1507--1510},
+  organization = {IEEE}
+}
+
 @InProceedings{moller2012gymskill,
   Title                    = {Gymskill: A personal trainer for physical exercises},
   Author                   = {M{\"o}ller, Andreas and Roalter, Luis and Diewald, Stefan and Scherr, Johannes and Kranz, Matthias and Hammerla, Nils and Olivier, Patrick and Pl{\"o}tz, Thomas},
