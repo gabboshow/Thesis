@@ -44,6 +44,17 @@
   Publisher                = {IEEE}
 }
 
+@Article{bednarek2008prevalence,
+  Title                    = {Prevalence, severity and underdiagnosis of COPD in the primary care setting},
+  Author                   = {Bednarek, Michal and Maciejewski, Janusz and Wozniak, Maria and Kuca, Pawel and Zielinski, Jan},
+  Journal                  = {Thorax},
+  Year                     = {2008},
+  Number                   = {5},
+  Pages                    = {402--407},
+  Volume                   = {63},
+  Publisher                = {BMJ Publishing Group Ltd and British Thoracic Society}
+}
+
 @Article{beeh2014aclidinium,
   Title                    = {Aclidinium improves exercise endurance, dyspnea, lung hyperinflation, and physical activity in patients with COPD: a randomized, placebo-controlled, crossover trial},
   Author                   = {Beeh, Kai M and Watz, Henrik and Puente-Maestu, Luis and de Teresa, Luis and Jarreta, Diana and Caracta, Cynthia and Gil, Esther Garcia and Magnussen, Helgo},
@@ -113,6 +124,17 @@
   Year                     = {2010},
   Organization             = {ACM},
   Pages                    = {333--342}
+}
+
+@Article{calverley2000copd,
+  Title                    = {COPD: early detection and intervention},
+  Author                   = {Calverley, Peter MA},
+  Journal                  = {CHEST Journal},
+  Year                     = {2000},
+  Number                   = {5\_suppl\_2},
+  Pages                    = {365S--371S},
+  Volume                   = {117},
+  Publisher                = {American College of Chest Physicians}
 }
 
 @Article{caspersen1985physical,
@@ -434,6 +456,17 @@
   Pages                    = {10--19}
 }
 
+@Article{jette1990metabolic,
+  Title                    = {Metabolic equivalents (METS) in exercise testing, exercise prescription, and evaluation of functional capacity},
+  Author                   = {Jette, M and Sidney, K and Bl{\"u}mchen, G},
+  Journal                  = {Clinical cardiology},
+  Year                     = {1990},
+  Number                   = {8},
+  Pages                    = {555--565},
+  Volume                   = {13},
+  Publisher                = {Wiley Online Library}
+}
+
 @Article{kinsman1983symptoms,
   Title                    = {Symptoms and experiences in chronic bronchitis and emphysema.},
   Author                   = {Kinsman, Robert A and Yaroush, RA and Fernandez, Enrique and Dirks, Jerald F and Schocket, Marsha and Fukuhara, Jolene},
@@ -529,12 +562,12 @@
 }
 
 @InProceedings{miwa2007roll,
-  author =       {Miwa, Hiroyasu and Sasahara, S-i and Matsui, Takashi},
-  title =        {Roll-over detection and sleep quality measurement using a wearable sensor},
-  booktitle =    {Engineering in Medicine and Biology Society, 2007. EMBS 2007. 29th Annual International Conference of the IEEE},
-  year =         {2007},
-  pages =        {1507--1510},
-  organization = {IEEE}
+  Title                    = {Roll-over detection and sleep quality measurement using a wearable sensor},
+  Author                   = {Miwa, Hiroyasu and Sasahara, S-i and Matsui, Takashi},
+  Booktitle                = {Engineering in Medicine and Biology Society, 2007. EMBS 2007. 29th Annual International Conference of the IEEE},
+  Year                     = {2007},
+  Organization             = {IEEE},
+  Pages                    = {1507--1510}
 }
 
 @InProceedings{moller2012gymskill,
@@ -806,6 +839,17 @@
   Year                     = {2013},
   Organization             = {ACM},
   Pages                    = {1309--1318}
+}
+
+@Article{vestbo2013global,
+  Title                    = {Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease: GOLD executive summary},
+  Author                   = {Vestbo, J{\o}rgen and Hurd, Suzanne S and Agust{\'\i}, Alvar G and Jones, Paul W and Vogelmeier, Claus and Anzueto, Antonio and Barnes, Peter J and Fabbri, Leonardo M and Martinez, Fernando J and Nishimura, Masaharu and others},
+  Journal                  = {American journal of respiratory and critical care medicine},
+  Year                     = {2013},
+  Number                   = {4},
+  Pages                    = {347--365},
+  Volume                   = {187},
+  Publisher                = {Am Thoracic Soc}
 }
 
 @Article{vgontzas1994validity,
