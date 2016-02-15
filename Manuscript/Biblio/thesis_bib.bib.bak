@@ -239,6 +239,17 @@
   Publisher                = {American College of Chest Physicians}
 }
 
+@Article{derom2008primary,
+  author =    {Derom, Eric and Van Weel, Chris and Liistro, Giuseppe and Buffels, Johan and Schermer, Tjard and Lammers, Ernst and Wouters, Emiel and Decramer, Marc},
+  title =     {Primary care spirometry*},
+  journal =   {European Respiratory Journal},
+  year =      {2008},
+  volume =    {31},
+  number =    {1},
+  pages =     {197--203},
+  publisher = {Eur Respiratory Soc}
+}
+
 @Article{dodge1995natural,
   Title                    = {The natural history of insomnia and its relationship to respiratory symptoms},
   Author                   = {Dodge, Russell and Cline, Martha G and Quan, Stuart F},
@@ -432,6 +443,17 @@
   Year                     = {2008},
   Organization             = {ACM},
   Pages                    = {10--19}
+}
+
+@Article{jette1990metabolic,
+  author =    {Jette, M and Sidney, K and Bl{\"u}mchen, G},
+  title =     {Metabolic equivalents (METS) in exercise testing, exercise prescription, and evaluation of functional capacity},
+  journal =   {Clinical cardiology},
+  year =      {1990},
+  volume =    {13},
+  number =    {8},
+  pages =     {555--565},
+  publisher = {Wiley Online Library}
 }
 
 @Article{kinsman1983symptoms,
