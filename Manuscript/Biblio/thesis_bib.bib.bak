@@ -33,6 +33,17 @@
   Volume                   = {26}
 }
 
+@Article{arnrich2010pervasive,
+  Title                    = {Pervasive healthcare},
+  Author                   = {Arnrich, Bert and Mayora, Oscar and Bardram, Jakob and Tr{\"o}ster, Gerhard and others},
+  Journal                  = {Methods of information in medicine},
+  Year                     = {2010},
+  Number                   = {1},
+  Pages                    = {67--73},
+  Volume                   = {49},
+  Publisher                = {Schattauer Publishers}
+}
+
 @Article{bannach2008rapid,
   Title                    = {Rapid prototyping of activity recognition applications},
   Author                   = {Bannach, David and Lukowicz, Paul and Amft, Oliver},
@@ -95,6 +106,17 @@
   Pages                    = {958--964},
   Volume                   = {114},
   Publisher                = {American College of Chest Physicians}
+}
+
+@Article{burgos2012telemedicine,
+  Title                    = {Telemedicine enhances quality of forced spirometry in primary care},
+  Author                   = {Burgos, Felip and Disdier, Carlos and de Santamaria, Elena Lopez and Galdiz, Batxi and Roger, N{\'u}ria and Rivera, Maria Luisa and Herv{\`a}s, Ramona and Dur{\'a}n-Tauleria, Enric and Garcia-Aymerich, Judith and Roca, Josep},
+  Journal                  = {European Respiratory Journal},
+  Year                     = {2012},
+  Number                   = {6},
+  Pages                    = {1313--1318},
+  Volume                   = {39},
+  Publisher                = {Eur Respiratory Soc}
 }
 
 @Article{bussmann2013total,
@@ -489,6 +511,15 @@
   Publisher                = {Elsevier}
 }
 
+@InProceedings{liang2007neural,
+  Title                    = {A neural network based computer-aided diagnosis of emphysema using CT lung images},
+  Author                   = {Liang, Tan Kok and Tanaka, Toshiyuki and Nakamura, Hidetoshi and Ishizaka, Akitoshi},
+  Booktitle                = {SICE, 2007 Annual Conference},
+  Year                     = {2007},
+  Organization             = {IEEE},
+  Pages                    = {703--709}
+}
+
 @Article{liao2014physical,
   Title                    = {Physical Activity Monitoring in Patients with Chronic Obstructive Pulmonary Disease},
   Author                   = {Liao, Shu-Yi and Benzo, Roberto and Ries, Andrew L and Soler, Xavier and others},
@@ -548,6 +579,17 @@
   Pages                    = {2095--2128},
   Volume                   = {380},
   Publisher                = {Elsevier}
+}
+
+@Article{marschollek2012decision,
+  Title                    = {Decision support at home (DS@ HOME)--system architectures and requirements},
+  Author                   = {Marschollek, Michael},
+  Journal                  = {BMC medical informatics and decision making},
+  Year                     = {2012},
+  Number                   = {1},
+  Pages                    = {43},
+  Volume                   = {12},
+  Publisher                = {BioMed Central Ltd}
 }
 
 @Article{marshall2011reducing,
