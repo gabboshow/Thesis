@@ -30,6 +30,17 @@
   Volume                   = {26}
 }
 
+@Article{arnrich2010pervasive,
+  Title                    = {Pervasive healthcare},
+  Author                   = {Arnrich, Bert and Mayora, Oscar and Bardram, Jakob and Tr{\"o}ster, Gerhard and others},
+  Journal                  = {Methods of information in medicine},
+  Year                     = {2010},
+  Number                   = {1},
+  Pages                    = {67--73},
+  Volume                   = {49},
+  Publisher                = {Schattauer Publishers}
+}
+
 @Article{arpaia2012time,
   author =    {Arpaia, Pasquale and Manna, Carlo and Montenero, Giuseppe and D'Addio, Giovanni},
   title =     {In-time prognosis based on swarm intelligence for home-care monitoring: A case study on pulmonary disease},
@@ -225,6 +236,15 @@
   Pages                    = {519},
   Volume                   = {30},
   Publisher                = {Citeseer}
+}
+
+@InProceedings{chouvarda2014welcome,
+  author =       {Chouvarda, Ioanna and Philip, Nada Y and Natsiavas, Pantelis and Kilintzis, Vasilis and Sobnath, Drishty and Kayyali, Reem and Henriques, Jorge and Paiva, Rui Pedro and Raptopoulos, Andreas and Chetelat, Olivier and others},
+  title =        {WELCOME—Innovative integrated care platform using wearable sensing and smart cloud computing for COPD patients with Comorbidities},
+  booktitle =    {Engineering in Medicine and Biology Society (EMBC), 2014 36th Annual International Conference of the IEEE},
+  year =         {2014},
+  pages =        {3180--3183},
+  organization = {IEEE}
 }
 
 @Article{colbert2011comparative,
@@ -568,6 +588,15 @@
   publisher = {Springer}
 }
 
+@InProceedings{liang2007neural,
+  Title                    = {A neural network based computer-aided diagnosis of emphysema using CT lung images},
+  Author                   = {Liang, Tan Kok and Tanaka, Toshiyuki and Nakamura, Hidetoshi and Ishizaka, Akitoshi},
+  Booktitle                = {SICE, 2007 Annual Conference},
+  Year                     = {2007},
+  Organization             = {IEEE},
+  Pages                    = {703--709}
+}
+
 @Article{liao2014physical,
   Title                    = {Physical Activity Monitoring in Patients with Chronic Obstructive Pulmonary Disease},
   Author                   = {Liao, Shu-Yi and Benzo, Roberto and Ries, Andrew L and Soler, Xavier and others},
@@ -627,6 +656,17 @@
   Pages                    = {2095--2128},
   Volume                   = {380},
   Publisher                = {Elsevier}
+}
+
+@Article{marschollek2012decision,
+  Title                    = {Decision support at home (DS@ HOME)--system architectures and requirements},
+  Author                   = {Marschollek, Michael},
+  Journal                  = {BMC medical informatics and decision making},
+  Year                     = {2012},
+  Number                   = {1},
+  Pages                    = {43},
+  Volume                   = {12},
+  Publisher                = {BioMed Central Ltd}
 }
 
 @Article{marshall2011reducing,
@@ -888,6 +928,17 @@
   Publisher                = {Elsevier}
 }
 
+@Article{spina2015identifying,
+  author =    {Spina, Gabriele and Casale, Pierluigi and Albert, Paul S and Alison, Jennifer and Garcia-Aymerich, Judith and Costello, Richard W and Hernandes, Nidia A and van Gestel, Arnoldus JR and Leuppi, Jorg D and Mesquita, Rafael and others},
+  title =     {Identifying physical activity profiles in COPD patients using topic models},
+  journal =   {Biomedical and Health Informatics, IEEE Journal of},
+  year =      {2015},
+  volume =    {19},
+  number =    {5},
+  pages =     {1567--1576},
+  publisher = {IEEE}
+}
+
 @Article{spruit2004exercise,
   Title                    = {Exercise training during rehabilitation of patients with COPD: a current perspective},
   Author                   = {Spruit, Martijn A and Troosters, Thierry and Trappenburg, Jacob CA and Decramer, Marc and Gosselink, Rik},
@@ -1005,6 +1056,16 @@
   Pages                    = {1521--1537},
   Volume                   = {44},
   Publisher                = {Eur Respiratory Soc}
+}
+
+@Article{welk2004reliability,
+  Title                    = {Reliability of accelerometry-based activity monitors: a generalizability study.},
+  Author                   = {Welk, Gregory J and Schaben, JODEE A and Morrow Jr, JAMES R},
+  Journal                  = {Medicine and Science in Sports and Exercise},
+  Year                     = {2004},
+  Number                   = {9},
+  Pages                    = {1637--1645},
+  Volume                   = {36}
 }
 
 @Article{wesensten1999does,
