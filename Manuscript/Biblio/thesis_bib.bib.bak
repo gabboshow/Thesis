@@ -74,6 +74,15 @@
   Publisher                = {IEEE}
 }
 
+@Article{bates2013lme4,
+  author =  {Bates, Douglas and Maechler, Martin and Bolker, Ben and Walker, Steven},
+  title =   {lme4: Linear mixed-effects models using Eigen and S4},
+  journal = {R package version},
+  year =    {2013},
+  volume =  {1},
+  number =  {4}
+}
+
 @Article{bednarek2008prevalence,
   Title                    = {Prevalence, severity and underdiagnosis of COPD in the primary care setting},
   Author                   = {Bednarek, Michal and Maciejewski, Janusz and Wozniak, Maria and Kuca, Pawel and Zielinski, Jan},
@@ -565,6 +574,17 @@
   Pages                    = {10--19}
 }
 
+@Article{jemal2005trends,
+  author =    {Jemal, Ahmedin and Ward, Elizabeth and Hao, Yongping and Thun, Michael},
+  title =     {Trends in the leading causes of death in the United States, 1970-2002},
+  journal =   {Jama},
+  year =      {2005},
+  volume =    {294},
+  number =    {10},
+  pages =     {1255--1259},
+  publisher = {American Medical Association}
+}
+
 @Article{jette1990metabolic,
   Title                    = {Metabolic equivalents (METS) in exercise testing, exercise prescription, and evaluation of functional capacity},
   Author                   = {Jette, M and Sidney, K and Bl{\"u}mchen, G},
@@ -1048,6 +1068,16 @@
   Pages                    = {1005--1011},
   Volume                   = {104},
   Publisher                = {Elsevier}
+}
+
+@Article{troosters2013improving,
+  author =  {Troosters, Thierry and van der Molen, Thys and Polkey, Michael and Rabinovich, Roberto A and Vogiatzis, Ioannis and Weisman, Idelle and Kulich, Karoly},
+  title =   {Improving physical activity in COPD: towards a new paradigm},
+  journal = {Respir Res},
+  year =    {2013},
+  volume =  {14},
+  number =  {1},
+  pages =   {115}
 }
 
 @InProceedings{tseng2009wireless,
