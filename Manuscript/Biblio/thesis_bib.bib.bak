@@ -1,4 +1,7 @@
-% Encoding: UTF-8@Article{agusti2011night,
+% Encoding: UTF-8
+
+
+@Article{agusti2011night,
   Title                    = {Night-time symptoms: a forgotten dimension of COPD},
   Author                   = {Agusti, A and Hedner, J and Marin, JM and Barb{\'e}, F and Cazzola, M and Rennard, S},
   Journal                  = {European Respiratory Review},
@@ -21,14 +24,14 @@
 }
 
 @Article{al2011assessment,
-  author =    {Al Otair, Hadil and Al-shamiri, Mustafa and Bahobail, Mohammed and Sharif, Munir M and BaHammam, Ahmed S},
-  title =     {Assessment of sleep patterns, energy expenditure and circadian rhythms of skin temperature in patients with acute coronary syndrome},
-  journal =   {Medical science monitor: international medical journal of experimental and clinical research},
-  year =      {2011},
-  volume =    {17},
-  number =    {7},
-  pages =     {CR397},
-  publisher = {International Scientific Literature, Inc.}
+  Title                    = {Assessment of sleep patterns, energy expenditure and circadian rhythms of skin temperature in patients with acute coronary syndrome},
+  Author                   = {Al Otair, Hadil and Al-shamiri, Mustafa and Bahobail, Mohammed and Sharif, Munir M and BaHammam, Ahmed S},
+  Journal                  = {Medical science monitor: international medical journal of experimental and clinical research},
+  Year                     = {2011},
+  Number                   = {7},
+  Pages                    = {CR397},
+  Volume                   = {17},
+  Publisher                = {International Scientific Literature, Inc.}
 }
 
 @Article{ancoli2003role,
@@ -53,14 +56,14 @@
 }
 
 @Article{arpaia2012time,
-  author =    {Arpaia, Pasquale and Manna, Carlo and Montenero, Giuseppe and D'Addio, Giovanni},
-  title =     {In-time prognosis based on swarm intelligence for home-care monitoring: A case study on pulmonary disease},
-  journal =   {Sensors Journal, IEEE},
-  year =      {2012},
-  volume =    {12},
-  number =    {3},
-  pages =     {692--698},
-  publisher = {IEEE}
+  Title                    = {In-time prognosis based on swarm intelligence for home-care monitoring: A case study on pulmonary disease},
+  Author                   = {Arpaia, Pasquale and Manna, Carlo and Montenero, Giuseppe and D'Addio, Giovanni},
+  Journal                  = {Sensors Journal, IEEE},
+  Year                     = {2012},
+  Number                   = {3},
+  Pages                    = {692--698},
+  Volume                   = {12},
+  Publisher                = {IEEE}
 }
 
 @Article{bannach2008rapid,
@@ -75,12 +78,12 @@
 }
 
 @Article{bates2013lme4,
-  author =  {Bates, Douglas and Maechler, Martin and Bolker, Ben and Walker, Steven},
-  title =   {lme4: Linear mixed-effects models using Eigen and S4},
-  journal = {R package version},
-  year =    {2013},
-  volume =  {1},
-  number =  {4}
+  Title                    = {lme4: Linear mixed-effects models using Eigen and S4},
+  Author                   = {Bates, Douglas and Maechler, Martin and Bolker, Ben and Walker, Steven},
+  Journal                  = {R package version},
+  Year                     = {2013},
+  Number                   = {4},
+  Volume                   = {1}
 }
 
 @Article{bednarek2008prevalence,
@@ -106,14 +109,25 @@
 }
 
 @Article{bellos2014identification,
-  author =    {Bellos, Christos C and Papadopoulos, Athanasios and Rosso, Roberto and Fotiadis, Dimitrios I},
-  title =     {Identification of COPD patients’ health status using an intelligent system in the CHRONIOUS wearable platform},
-  journal =   {Biomedical and Health Informatics, IEEE Journal of},
-  year =      {2014},
-  volume =    {18},
-  number =    {3},
-  pages =     {731--738},
-  publisher = {IEEE}
+  Title                    = {Identification of COPD patients’ health status using an intelligent system in the CHRONIOUS wearable platform},
+  Author                   = {Bellos, Christos C and Papadopoulos, Athanasios and Rosso, Roberto and Fotiadis, Dimitrios I},
+  Journal                  = {Biomedical and Health Informatics, IEEE Journal of},
+  Year                     = {2014},
+  Number                   = {3},
+  Pages                    = {731--738},
+  Volume                   = {18},
+  Publisher                = {IEEE}
+}
+
+@Article{bestall1999usefulness,
+  Title                    = {Usefulness of the Medical Research Council (MRC) dyspnoea scale as a measure of disability in patients with chronic obstructive pulmonary disease},
+  Author                   = {Bestall, JC and Paul, EA and Garrod, R and Garnham, R and Jones, PW and Wedzicha, JA},
+  Journal                  = {Thorax},
+  Year                     = {1999},
+  Number                   = {7},
+  Pages                    = {581--586},
+  Volume                   = {54},
+  Publisher                = {BMJ Publishing Group Ltd and British Thoracic Society}
 }
 
 @Article{blei2003latent,
@@ -137,14 +151,14 @@
 }
 
 @Article{breiman2001random,
-  author =    {Breiman, Leo},
-  title =     {Random forests},
-  journal =   {Machine learning},
-  year =      {2001},
-  volume =    {45},
-  number =    {1},
-  pages =     {5--32},
-  publisher = {Springer}
+  Title                    = {Random forests},
+  Author                   = {Breiman, Leo},
+  Journal                  = {Machine learning},
+  Year                     = {2001},
+  Number                   = {1},
+  Pages                    = {5--32},
+  Volume                   = {45},
+  Publisher                = {Springer}
 }
 
 @Article{breslin1998perception,
@@ -156,6 +170,28 @@
   Pages                    = {958--964},
   Volume                   = {114},
   Publisher                = {American College of Chest Physicians}
+}
+
+@Article{buist2007international,
+  Title                    = {International variation in the prevalence of COPD (the BOLD Study): a population-based prevalence study},
+  Author                   = {Buist, A Sonia and McBurnie, Mary Ann and Vollmer, William M and Gillespie, Suzanne and Burney, Peter and Mannino, David M and Menezes, Ana MB and Sullivan, Sean D and Lee, Todd A and Weiss, Kevin B and others},
+  Journal                  = {The Lancet},
+  Year                     = {2007},
+  Number                   = {9589},
+  Pages                    = {741--750},
+  Volume                   = {370},
+  Publisher                = {Elsevier}
+}
+
+@Article{burgel2010clinical,
+  Title                    = {Clinical COPD phenotypes: a novel approach using principal component and cluster analyses},
+  Author                   = {Burgel, Pierre Regis and Paillasseur, JL and Caillaud, D and Tillie-Leblond, I and Chanez, P and Escamilla, R and Perez, T and Carr{\'e}, P and Roche, N and others},
+  Journal                  = {European Respiratory Journal},
+  Year                     = {2010},
+  Number                   = {3},
+  Pages                    = {531--539},
+  Volume                   = {36},
+  Publisher                = {Eur Respiratory Soc}
 }
 
 @Article{burgos2012telemedicine,
@@ -220,6 +256,25 @@
   Publisher                = {Association of Schools of Public Health}
 }
 
+@Article{cavalheri2011energy,
+  Title                    = {Energy expenditure during daily activities as measured by two motion sensors in patients with COPD},
+  Author                   = {Cavalheri, Vin{\'\i}cius and Don{\'a}ria, Leila and Ferreira, Thiemi and Finatti, Matheus and Camillo, Carlos Augusto and Ramos, Ercy Mara Cipulo and Pitta, F{\'a}bio},
+  Journal                  = {Respiratory medicine},
+  Year                     = {2011},
+  Number                   = {6},
+  Pages                    = {922--929},
+  Volume                   = {105},
+  Publisher                = {Elsevier}
+}
+
+@Article{cavalheri2015changing,
+  Title                    = {Changing physical activity and sedentary behaviour in people with COPD},
+  Author                   = {Cavalheri, Vinicius and Straker, Leon and Gucciardi, Daniel F and Gardiner, Paul A and Hill, Kylie},
+  Journal                  = {Respirology},
+  Year                     = {2015},
+  Publisher                = {Wiley Online Library}
+}
+
 @Article{celli2004standards,
   Title                    = {Standards for the diagnosis and treatment of patients with COPD: a summary of the ATS/ERS position paper},
   Author                   = {Celli, BR and MacNee, WATS and Agusti, AATS and Anzueto, A and Berg, B and Buist, AS and Calverley, PMA and Chavannes, N and Dillard, T and Fahy, B and others},
@@ -250,12 +305,12 @@
 }
 
 @InProceedings{cheplygina2014classification,
-  author =       {Cheplygina, Veronika and Sorensen, Lauge and Tax, David MJ and Pedersen, Jesper Holst and Loog, Marco and de Bruijne, Marleen},
-  title =        {Classification of COPD with multiple instance learning},
-  booktitle =    {2014 22nd International Conference on Pattern Recognition (ICPR)},
-  year =         {2014},
-  pages =        {1508--1513},
-  organization = {IEEE}
+  Title                    = {Classification of COPD with multiple instance learning},
+  Author                   = {Cheplygina, Veronika and Sorensen, Lauge and Tax, David MJ and Pedersen, Jesper Holst and Loog, Marco and de Bruijne, Marleen},
+  Booktitle                = {2014 22nd International Conference on Pattern Recognition (ICPR)},
+  Year                     = {2014},
+  Organization             = {IEEE},
+  Pages                    = {1508--1513}
 }
 
 @Article{chesson2007practice,
@@ -270,19 +325,19 @@
 }
 
 @InProceedings{chouvarda2014welcome,
-  author =       {Chouvarda, Ioanna and Philip, Nada Y and Natsiavas, Pantelis and Kilintzis, Vasilis and Sobnath, Drishty and Kayyali, Reem and Henriques, Jorge and Paiva, Rui Pedro and Raptopoulos, Andreas and Chetelat, Olivier and others},
-  title =        {WELCOME—Innovative integrated care platform using wearable sensing and smart cloud computing for COPD patients with Comorbidities},
-  booktitle =    {Engineering in Medicine and Biology Society (EMBC), 2014 36th Annual International Conference of the IEEE},
-  year =         {2014},
-  pages =        {3180--3183},
-  organization = {IEEE}
+  Title                    = {WELCOME—Innovative integrated care platform using wearable sensing and smart cloud computing for COPD patients with Comorbidities},
+  Author                   = {Chouvarda, Ioanna and Philip, Nada Y and Natsiavas, Pantelis and Kilintzis, Vasilis and Sobnath, Drishty and Kayyali, Reem and Henriques, Jorge and Paiva, Rui Pedro and Raptopoulos, Andreas and Chetelat, Olivier and others},
+  Booktitle                = {Engineering in Medicine and Biology Society (EMBC), 2014 36th Annual International Conference of the IEEE},
+  Year                     = {2014},
+  Organization             = {IEEE},
+  Pages                    = {3180--3183}
 }
 
 @Article{codagnone2009reconstructing,
-  author =  {Codagnone, Cristiano},
-  title =   {Reconstructing the whole: present and future of Personal Health Systems},
-  journal = {PHS 2020},
-  year =    {2009}
+  Title                    = {Reconstructing the whole: present and future of Personal Health Systems},
+  Author                   = {Codagnone, Cristiano},
+  Journal                  = {PHS 2020},
+  Year                     = {2009}
 }
 
 @Article{colbert2011comparative,
@@ -347,6 +402,17 @@
   Pages                    = {255--264}
 }
 
+@Article{deering2011acupuncture,
+  Title                    = {Acupuncture as an adjunct to pulmonary rehabilitation},
+  Author                   = {Deering, Brenda M and Fullen, Brona and Egan, Claire and McCormack, Niamh and Kelly, Emer and Pender, Mary and Costello, Richard W},
+  Journal                  = {Journal of cardiopulmonary rehabilitation and prevention},
+  Year                     = {2011},
+  Number                   = {6},
+  Pages                    = {392--399},
+  Volume                   = {31},
+  Publisher                = {LWW}
+}
+
 @Article{demeyer2014standardizing,
   Title                    = {Standardizing the analysis of physical activity in patients with COPD following a pulmonary rehabilitation program},
   Author                   = {Demeyer, Heleen and Burtin, Chris and Van Remoortel, Hans and Hornikx, Miek and Langer, Daniel and Decramer, Marc and Gosselink, Rik and Janssens, Wim and Troosters, Thierry},
@@ -358,25 +424,36 @@
   Publisher                = {American College of Chest Physicians}
 }
 
+@Article{depew2013correlations,
+  Title                    = {Correlations between gait speed, 6-minute walk distance, physical activity, and self-efficacy in patients with severe chronic lung disease},
+  Author                   = {DePew, Zachary S and Karpman, Craig and Novotny, Paul J and Benzo, Roberto P},
+  Journal                  = {Respiratory care},
+  Year                     = {2013},
+  Number                   = {12},
+  Pages                    = {2113--2119},
+  Volume                   = {58},
+  Publisher                = {American Association for Respiratory Care}
+}
+
 @Article{derom2008primary,
-  author =    {Derom, Eric and Van Weel, Chris and Liistro, Giuseppe and Buffels, Johan and Schermer, Tjard and Lammers, Ernst and Wouters, Emiel and Decramer, Marc},
-  title =     {Primary care spirometry*},
-  journal =   {European Respiratory Journal},
-  year =      {2008},
-  volume =    {31},
-  number =    {1},
-  pages =     {197--203},
-  publisher = {Eur Respiratory Soc}
+  Title                    = {Primary care spirometry*},
+  Author                   = {Derom, Eric and Van Weel, Chris and Liistro, Giuseppe and Buffels, Johan and Schermer, Tjard and Lammers, Ernst and Wouters, Emiel and Decramer, Marc},
+  Journal                  = {European Respiratory Journal},
+  Year                     = {2008},
+  Number                   = {1},
+  Pages                    = {197--203},
+  Volume                   = {31},
+  Publisher                = {Eur Respiratory Soc}
 }
 
 @Article{dishman2004inventing,
-  author =    {Dishman, Eric},
-  title =     {Inventing wellness systems for aging in place},
-  journal =   {Computer},
-  year =      {2004},
-  number =    {5},
-  pages =     {34--41},
-  publisher = {IEEE}
+  Title                    = {Inventing wellness systems for aging in place},
+  Author                   = {Dishman, Eric},
+  Journal                  = {Computer},
+  Year                     = {2004},
+  Number                   = {5},
+  Pages                    = {34--41},
+  Publisher                = {IEEE}
 }
 
 @Article{dodge1995natural,
@@ -390,6 +467,14 @@
   Publisher                = {American Medical Association}
 }
 
+@Article{dolnicar2002review,
+  Title                    = {A review of unquestioned standards in using cluster analysis for data-driven market segmentation},
+  Author                   = {Dolnicar, Sara},
+  Journal                  = {Faculty of Commerce-Papers},
+  Year                     = {2002},
+  Pages                    = {273}
+}
+
 @Article{donaire2013physical,
   Title                    = {Physical activity in COPD patients: patterns and bouts},
   Author                   = {Donaire-Gonzalez, David and Gimeno-Santos, Elena and Balcells, Eva and Rodr{\'\i}guez, Diego A and Farrero, Eva and de Batlle, Jordi and Benet, Marta and Ferrer, Antoni and Barber{\`a}, Joan A and Gea, Joaquim and others},
@@ -399,6 +484,26 @@
   Pages                    = {993--1002},
   Volume                   = {42},
   Publisher                = {Eur Respiratory Soc}
+}
+
+@Article{donaire2015benefits,
+  Title                    = {Benefits of physical activity on COPD hospitalisation depend on intensity},
+  Author                   = {Donaire-Gonzalez, David and Gimeno-Santos, Elena and Balcells, Eva and de Batlle, Jordi and Ramon, Maria A and Rodriguez, Esther and Farrero, Eva and Benet, Marta and Guerra, Stefano and Sauleda, Jaume and others},
+  Journal                  = {European Respiratory Journal},
+  Year                     = {2015},
+  Pages                    = {ERJ--01699},
+  Publisher                = {Eur Respiratory Soc}
+}
+
+@Article{egan2012short,
+  Title                    = {Short term and long term effects of pulmonary rehabilitation on physical activity in COPD},
+  Author                   = {Egan, Claire and Deering, Brenda M and Blake, Catherine and Fullen, Brona M and McCormack, Niamh M and Spruit, Martijn A and Costello, Richard W},
+  Journal                  = {Respiratory medicine},
+  Year                     = {2012},
+  Number                   = {12},
+  Pages                    = {1671--1679},
+  Volume                   = {106},
+  Publisher                = {Elsevier}
 }
 
 @Article{eltayara2001orthopnea,
@@ -412,11 +517,29 @@
   Publisher                = {American College of Chest Physicians}
 }
 
+@Article{evering2011deviations,
+  Title                    = {Deviations in daily physical activity patterns in patients with the chronic fatigue syndrome: a case control study},
+  Author                   = {Evering, Richard MH and T{\"o}nis, Thijs M and Vollenbroek-Hutten, Miriam MR},
+  Journal                  = {Journal of psychosomatic research},
+  Year                     = {2011},
+  Number                   = {3},
+  Pages                    = {129--135},
+  Volume                   = {71},
+  Publisher                = {Elsevier}
+}
+
 @Book{floyd2009manual,
   Title                    = {Manual of structural kinesiology},
   Author                   = {Floyd, Robert T and Thompson, Clem W and others},
   Publisher                = {McGraw-Hill New York, NY},
   Year                     = {2009}
+}
+
+@Book{formann1984latent,
+  Title                    = {Die latent-class-analyse: Einf{\"u}hrung in Theorie und Anwendung},
+  Author                   = {Formann, Anton K},
+  Publisher                = {Beltz},
+  Year                     = {1984}
 }
 
 @Article{franko2012smartphone,
@@ -445,6 +568,17 @@
   Number                   = {7},
   Pages                    = {1334--1359},
   Volume                   = {43}
+}
+
+@Article{garcia2011identification,
+  Title                    = {Identification and prospective validation of clinically relevant chronic obstructive pulmonary disease (COPD) subtypes},
+  Author                   = {Garcia-Aymerich, Judith and G{\'o}mez, Federico P and Benet, Marta and Farrero, Eva and Basaga{\~n}a, Xavier and Gayete, {\`A}ngel and Par{\'e}, Carles and Freixa, Xavier and Ferrer, Jaume and Ferrer, Antoni and others},
+  Journal                  = {Thorax},
+  Year                     = {2011},
+  Number                   = {5},
+  Pages                    = {430--437},
+  Volume                   = {66},
+  Publisher                = {BMJ Publishing Group Ltd and British Thoracic Society}
 }
 
 @Article{george2003management,
@@ -495,6 +629,17 @@
   Publisher                = {American Academy of Sleep Medicine; 1999}
 }
 
+@Article{goodnight1980tests,
+  Title                    = {Tests of hypotheses in fixed effects linear models},
+  Author                   = {Goodnight, James Howard},
+  Journal                  = {Communications in Statistics-Theory and Methods},
+  Year                     = {1980},
+  Number                   = {2},
+  Pages                    = {167--180},
+  Volume                   = {9},
+  Publisher                = {Taylor \& Francis}
+}
+
 @Article{graat2011osteoporosis,
   Title                    = {Osteoporosis in COPD outpatients based on bone mineral density and vertebral fractures},
   Author                   = {Graat-Verboom, Lidwien and van den Borne, Ben EEM and Smeenk, Frank WJM and Spruit, Martijn A and Wouters, Emiel FM},
@@ -504,6 +649,38 @@
   Pages                    = {561--568},
   Volume                   = {26},
   Publisher                = {Wiley Online Library}
+}
+
+@Article{gubbels2012clustering,
+  Title                    = {Clustering of energy balance-related behaviors in 5-year-old children: Lifestyle patterns and their longitudinal association with weight status development in early childhood},
+  Author                   = {Gubbels, Jessica S and Kremers, SP and Stafleu, Annette and Goldbohm, R Alexandra and de Vries, Nanne K and Thijs, Carel},
+  Journal                  = {Int J Behav Nutr Phys Act},
+  Year                     = {2012},
+  Number                   = {77},
+  Pages                    = {10--1186},
+  Volume                   = {9}
+}
+
+@Article{h,
+  Title                    = {Influence of lightweight ambulatory oxygen on oxygen use and activity patterns of COPD patients receiving long-term oxygen therapy},
+  Author                   = {Casaburi, Richard and Porszasz, Janos and Hecht, Ariel and Tiep, Brian and Albert, Richard K and Anthonisen, Nicholas R and Bailey, William C and Connett, John E and Cooper Jr, J Allen and Criner, Gerard J and others},
+  Journal                  = {COPD: Journal of Chronic Obstructive Pulmonary Disease},
+  Year                     = {2012},
+  Number                   = {1},
+  Pages                    = {3--11},
+  Volume                   = {9},
+  Publisher                = {Taylor \& Francis}
+}
+
+@Article{hallal2012global,
+  Title                    = {Global physical activity levels: surveillance progress, pitfalls, and prospects},
+  Author                   = {Hallal, Pedro C and Andersen, Lars Bo and Bull, Fiona C and Guthold, Regina and Haskell, William and Ekelund, Ulf and Lancet Physical Activity Series Working Group and others},
+  Journal                  = {The lancet},
+  Year                     = {2012},
+  Number                   = {9838},
+  Pages                    = {247--257},
+  Volume                   = {380},
+  Publisher                = {Elsevier}
 }
 
 @InProceedings{hammerla2013preserving,
@@ -524,6 +701,17 @@
   Pages                    = {85--88}
 }
 
+@Article{harrison2014can,
+  Title                    = {Can we identify patients with different illness schema following an acute exacerbation of COPD: a cluster analysis},
+  Author                   = {Harrison, SL and Robertson, Noelle and Graham, CD and Williams, J and Steiner, MC and Morgan, MDL and Singh, SJ},
+  Journal                  = {Respiratory medicine},
+  Year                     = {2014},
+  Number                   = {2},
+  Pages                    = {319--328},
+  Volume                   = {108},
+  Publisher                = {Elsevier}
+}
+
 @Article{hartman2015frequent,
   Title                    = {Frequent sputum production is associated with disturbed night’s rest and impaired sleep quality in patients with COPD},
   Author                   = {Hartman, JE and Prinzen, J and van Lummel, RC and ten Hacken, NHT},
@@ -535,6 +723,25 @@
   Publisher                = {Springer}
 }
 
+@Article{haskell2007physical,
+  Title                    = {Physical activity and public health: updated recommendation for adults from the American College of Sports Medicine and the American Heart Association},
+  Author                   = {Haskell, William L and Lee, I-Min and Pate, Russell R and Powell, Kenneth E and Blair, Steven N and Franklin, Barry A and Macera, Caroline A and Heath, Gregory W and Thompson, Paul D and Bauman, Adrian},
+  Journal                  = {Circulation},
+  Year                     = {2007},
+  Number                   = {9},
+  Pages                    = {1081},
+  Volume                   = {116}
+}
+
+@Article{hataji2013indacaterol,
+  Title                    = {Indacaterol improves daily physical activity in patients with chronic obstructive pulmonary disease},
+  Author                   = {Hataji, Osamu and Naito, Masahiro and Ito, Kentaro and Watanabe, Fumiaki and Gabazza, Esteban C and Taguchi, Osamu},
+  Journal                  = {Int J Chron Obstruct Pulmon Dis},
+  Year                     = {2013},
+  Pages                    = {1--5},
+  Volume                   = {8}
+}
+
 @InProceedings{havens2009contour,
   Title                    = {Contour tracking of human exercises},
   Author                   = {Havens, Timothy C and Alexander, Gregory L and Abbott, Carmen and Keller, James M and Skubic, Marjorie and Rantz, Marilyn},
@@ -542,6 +749,17 @@
   Year                     = {2009},
   Organization             = {IEEE},
   Pages                    = {22--28}
+}
+
+@Article{hecht2009methodology,
+  Title                    = {Methodology for using long-term accelerometry monitoring to describe daily activity patterns in COPD},
+  Author                   = {Hecht, Ariel and Ma, Shuyi and Porszasz, Janos and Casaburi, Richard and COPD Clinical Research Network and others},
+  Journal                  = {COPD: Journal of Chronic Obstructive Pulmonary Disease},
+  Year                     = {2009},
+  Number                   = {2},
+  Pages                    = {121--129},
+  Volume                   = {6},
+  Publisher                = {Taylor \& Francis}
 }
 
 @Article{hill2010measurement,
@@ -553,6 +771,17 @@
   Pages                    = {486--491},
   Volume                   = {65},
   Publisher                = {BMJ Publishing Group Ltd and British Thoracic Society}
+}
+
+@Article{hill2012defining,
+  Title                    = {Defining the relationship between average daily energy expenditure and field-based walking tests and aerobic reserve in COPD},
+  Author                   = {Hill, Kylie and Dolmage, Thomas E and Woon, Lynda and Coutts, Debbie and Goldstein, Roger and Brooks, Dina},
+  Journal                  = {CHEST Journal},
+  Year                     = {2012},
+  Number                   = {2},
+  Pages                    = {406--412},
+  Volume                   = {141},
+  Publisher                = {American College of Chest Physicians}
 }
 
 @InProceedings{huggins2006pocketsphinx,
@@ -575,14 +804,14 @@
 }
 
 @Article{jemal2005trends,
-  author =    {Jemal, Ahmedin and Ward, Elizabeth and Hao, Yongping and Thun, Michael},
-  title =     {Trends in the leading causes of death in the United States, 1970-2002},
-  journal =   {Jama},
-  year =      {2005},
-  volume =    {294},
-  number =    {10},
-  pages =     {1255--1259},
-  publisher = {American Medical Association}
+  Title                    = {Trends in the leading causes of death in the United States, 1970-2002},
+  Author                   = {Jemal, Ahmedin and Ward, Elizabeth and Hao, Yongping and Thun, Michael},
+  Journal                  = {Jama},
+  Year                     = {2005},
+  Number                   = {10},
+  Pages                    = {1255--1259},
+  Volume                   = {294},
+  Publisher                = {American Medical Association}
 }
 
 @Article{jette1990metabolic,
@@ -597,31 +826,42 @@
 }
 
 @InProceedings{jung2007user,
-  author =       {Jung, Insung and Wang, Gi-Nam},
-  title =        {User Pattern Learning Algorithm based MDSS (Medical Decision Support System) Framework under Ubiquitous},
-  booktitle =    {Proceedings of World Academy of Science, Engineering and Technology},
-  year =         {2007},
-  volume =       {26},
-  organization = {Citeseer}
+  Title                    = {User Pattern Learning Algorithm based MDSS (Medical Decision Support System) Framework under Ubiquitous},
+  Author                   = {Jung, Insung and Wang, Gi-Nam},
+  Booktitle                = {Proceedings of World Academy of Science, Engineering and Technology},
+  Year                     = {2007},
+  Organization             = {Citeseer},
+  Volume                   = {26}
 }
 
 @Article{kaplan2000theory,
-  author =  {Kaplan, Hillard and Hill, Kim and Lancaster, Jane and Hurtado, A Magdalena},
-  title =   {A theory of human life history evolution: diet, intelligence, and longevity},
-  journal = {Evolutionary Anthropology Issues News and Reviews},
-  year =    {2000},
-  volume =  {9},
-  number =  {4},
-  pages =   {156--185}
+  Title                    = {A theory of human life history evolution: diet, intelligence, and longevity},
+  Author                   = {Kaplan, Hillard and Hill, Kim and Lancaster, Jane and Hurtado, A Magdalena},
+  Journal                  = {Evolutionary Anthropology Issues News and Reviews},
+  Year                     = {2000},
+  Number                   = {4},
+  Pages                    = {156--185},
+  Volume                   = {9}
 }
 
 @InProceedings{karuppanan2012comprehensive,
-  author =       {Karuppanan, Komathy and Vairasundaram, Abinaya Sree and Sigamani, Manjula},
-  title =        {A comprehensive machine learning approach to prognose pulmonary disease from home},
-  booktitle =    {Proceedings of the International Conference on Advances in Computing, Communications and Informatics},
-  year =         {2012},
-  pages =        {518--523},
-  organization = {ACM}
+  Title                    = {A comprehensive machine learning approach to prognose pulmonary disease from home},
+  Author                   = {Karuppanan, Komathy and Vairasundaram, Abinaya Sree and Sigamani, Manjula},
+  Booktitle                = {Proceedings of the International Conference on Advances in Computing, Communications and Informatics},
+  Year                     = {2012},
+  Organization             = {ACM},
+  Pages                    = {518--523}
+}
+
+@Article{kesten2008improvement,
+  Title                    = {Improvement in self-reported exercise participation with the combination of tiotropium and rehabilitative exercise training in COPD patients},
+  Author                   = {Kesten, Steven and Casaburi, Richard and Kukafka, David and Cooper, Christopher B},
+  Journal                  = {International journal of chronic obstructive pulmonary disease},
+  Year                     = {2008},
+  Number                   = {1},
+  Pages                    = {127},
+  Volume                   = {3},
+  Publisher                = {Dove Press}
 }
 
 @Article{kinsman1983symptoms,
@@ -636,25 +876,25 @@
 }
 
 @Article{koop2008future,
-  author =    {Koop, Everett and Mosher, Robyn and Kun, Luis and Geiling, Jim and Grigg, Eliot and Long, Sarah and Macedonia, Christian and Merrell, Ronald C and Satava, Richard and Rosen, Joseph M},
-  title =     {Future delivery of health care: Cybercare},
-  journal =   {Engineering in Medicine and Biology Magazine, IEEE},
-  year =      {2008},
-  volume =    {27},
-  number =    {6},
-  pages =     {29--38},
-  publisher = {IEEE}
+  Title                    = {Future delivery of health care: Cybercare},
+  Author                   = {Koop, Everett and Mosher, Robyn and Kun, Luis and Geiling, Jim and Grigg, Eliot and Long, Sarah and Macedonia, Christian and Merrell, Ronald C and Satava, Richard and Rosen, Joseph M},
+  Journal                  = {Engineering in Medicine and Biology Magazine, IEEE},
+  Year                     = {2008},
+  Number                   = {6},
+  Pages                    = {29--38},
+  Volume                   = {27},
+  Publisher                = {IEEE}
 }
 
 @Article{korhonen2003health,
-  author =    {Korhonen, Ilkka and P{\"a}rkk{\"a}, Juha and Van Gils, Mark},
-  title =     {Health monitoring in the home of the future},
-  journal =   {Engineering in Medicine and Biology Magazine, IEEE},
-  year =      {2003},
-  volume =    {22},
-  number =    {3},
-  pages =     {66--73},
-  publisher = {IEEE}
+  Title                    = {Health monitoring in the home of the future},
+  Author                   = {Korhonen, Ilkka and P{\"a}rkk{\"a}, Juha and Van Gils, Mark},
+  Journal                  = {Engineering in Medicine and Biology Magazine, IEEE},
+  Year                     = {2003},
+  Number                   = {3},
+  Pages                    = {66--73},
+  Volume                   = {22},
+  Publisher                = {IEEE}
 }
 
 @Article{kranz2013mobile,
@@ -669,14 +909,25 @@
 }
 
 @Article{lee2013chronic,
-  author =    {Lee-Chiong, Teofilo},
-  title =     {Chronic obstructive pulmonary disease and sleep},
-  journal =   {Current Respiratory Care Reports},
-  year =      {2013},
-  volume =    {2},
-  number =    {2},
-  pages =     {123--129},
-  publisher = {Springer}
+  Title                    = {Chronic obstructive pulmonary disease and sleep},
+  Author                   = {Lee-Chiong, Teofilo},
+  Journal                  = {Current Respiratory Care Reports},
+  Year                     = {2013},
+  Number                   = {2},
+  Pages                    = {123--129},
+  Volume                   = {2},
+  Publisher                = {Springer}
+}
+
+@Article{lee2013cluster,
+  Title                    = {A cluster analysis of patterns of objectively measured physical activity in Hong Kong},
+  Author                   = {Lee, Paul H and Yu, Ying-Ying and McDowell, Ian and Leung, Gabriel M and Lam, TH},
+  Journal                  = {Public health nutrition},
+  Year                     = {2013},
+  Number                   = {08},
+  Pages                    = {1436--1444},
+  Volume                   = {16},
+  Publisher                = {Cambridge Univ Press}
 }
 
 @InProceedings{liang2007neural,
@@ -829,13 +1080,34 @@
   Pages                    = {204--207}
 }
 
+@Article{nelson2007physical,
+  Title                    = {Physical activity and public health in older adults: recommendation from the American College of Sports Medicine and the American Heart Association},
+  Author                   = {Nelson, Miriam E and Rejeski, W Jack and Blair, Steven N and Duncan, Pamela W and Judge, James O and King, Abby C and Macera, Carol A and Castaneda-Sceppa, Carmen},
+  Journal                  = {Circulation},
+  Year                     = {2007},
+  Number                   = {9},
+  Pages                    = {1094},
+  Volume                   = {116}
+}
+
 @InProceedings{newandee2003copd,
-  author =       {Newandee, DA and Reisman, SS and Bartels, MN and De Meersman, RE},
-  title =        {COPD severity classification using principal component and cluster analysis on HRV parameters},
-  booktitle =    {Bioengineering Conference, 2003 IEEE 29th Annual, Proceedings of},
-  year =         {2003},
-  pages =        {134--135},
-  organization = {IEEE}
+  Title                    = {COPD severity classification using principal component and cluster analysis on HRV parameters},
+  Author                   = {Newandee, DA and Reisman, SS and Bartels, MN and De Meersman, RE},
+  Booktitle                = {Bioengineering Conference, 2003 IEEE 29th Annual, Proceedings of},
+  Year                     = {2003},
+  Organization             = {IEEE},
+  Pages                    = {134--135}
+}
+
+@Article{ng2012does,
+  Title                    = {Does exercise training change physical activity in people with COPD? A systematic review and meta-analysis},
+  Author                   = {Ng, Li Whye Cindy and Mackney, Jenny and Jenkins, Sue and Hill, Kylie},
+  Journal                  = {Chronic respiratory disease},
+  Year                     = {2012},
+  Number                   = {1},
+  Pages                    = {17--26},
+  Volume                   = {9},
+  Publisher                = {SAGE Publications}
 }
 
 @Article{nici2015they,
@@ -869,11 +1141,11 @@
 }
 
 @Article{pauwels2012global,
-  author =    {Pauwels, Romain A and Buist, A Sonia and Calverley, Peter MA and Jenkins, Christine R and Hurd, Suzanne S},
-  title =     {Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease},
-  journal =   {American journal of respiratory and critical care medicine},
-  year =      {2012},
-  publisher = {Am Thoracic Soc}
+  Title                    = {Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease},
+  Author                   = {Pauwels, Romain A and Buist, A Sonia and Calverley, Peter MA and Jenkins, Christine R and Hurd, Suzanne S},
+  Journal                  = {American journal of respiratory and critical care medicine},
+  Year                     = {2012},
+  Publisher                = {Am Thoracic Soc}
 }
 
 @Article{pernek2013exercise,
@@ -931,13 +1203,46 @@
   Publisher                = {Elsevier}
 }
 
+@Article{puhan2009expansion,
+  Title                    = {Expansion of the prognostic assessment of patients with chronic obstructive pulmonary disease: the updated BODE index and the ADO index},
+  Author                   = {Puhan, Milo A and Garcia-Aymerich, Judith and Frey, Martin and ter Riet, Gerben and Ant{\'o}, Josep M and Agust{\'\i}, Alvar G and G{\'o}mez, Federico P and Rodr{\'\i}guez-Rois{\'\i}n, Roberto and Moons, Karel GM and Kessels, Alphons G and others},
+  Journal                  = {The Lancet},
+  Year                     = {2009},
+  Number                   = {9691},
+  Pages                    = {704--711},
+  Volume                   = {374},
+  Publisher                = {Elsevier}
+}
+
+@Article{rabe2007global,
+  Title                    = {Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease: GOLD executive summary},
+  Author                   = {Rabe, Klaus F and Hurd, Suzanne and Anzueto, Antonio and Barnes, Peter J and Buist, Sonia A and Calverley, Peter and Fukuchi, Yoshinosuke and Jenkins, Christine and Rodriguez-Roisin, Roberto and Van Weel, Chris and others},
+  Journal                  = {American journal of respiratory and critical care medicine},
+  Year                     = {2007},
+  Number                   = {6},
+  Pages                    = {532--555},
+  Volume                   = {176},
+  Publisher                = {Am Thoracic Soc}
+}
+
+@Article{rochester2006gait,
+  Title                    = {Gait and gait-related activities and fatigue in Parkinson's disease: What is the relationship?},
+  Author                   = {Rochester, Lynn and Jones, Diana and Hetherington, Victoria and Nieuwboer, Alice and Willems, Anne-Marie and Kwakkel, Gert and Wegen, Erwin Van},
+  Journal                  = {Disability and rehabilitation},
+  Year                     = {2006},
+  Number                   = {22},
+  Pages                    = {1365--1371},
+  Volume                   = {28},
+  Publisher                = {Taylor \& Francis}
+}
+
 @InProceedings{ross2014dual,
-  author =       {Ross, James C and Castaldi, Peter J and Cho, Michael H and Dy, Jennifer G},
-  title =        {Dual beta process priors for latent cluster discovery in chronic obstructive pulmonary disease},
-  booktitle =    {Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining},
-  year =         {2014},
-  pages =        {155--162},
-  organization = {ACM}
+  Title                    = {Dual beta process priors for latent cluster discovery in chronic obstructive pulmonary disease},
+  Author                   = {Ross, James C and Castaldi, Peter J and Cho, Michael H and Dy, Jennifer G},
+  Booktitle                = {Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining},
+  Year                     = {2014},
+  Organization             = {ACM},
+  Pages                    = {155--162}
 }
 
 @InProceedings{saria2011discovering,
@@ -1019,15 +1324,25 @@
   Publisher                = {Elsevier}
 }
 
+@Article{sparling2015recommendations,
+  Title                    = {Recommendations for physical activity in older adults},
+  Author                   = {Sparling, Phillip B and Howard, Bethany J and Dunstan, David W and Owen, Neville},
+  Journal                  = {BMJ},
+  Year                     = {2015},
+  Pages                    = {h100},
+  Volume                   = {350},
+  Publisher                = {British Medical Journal Publishing Group}
+}
+
 @Article{spina2015identifying,
-  author =    {Spina, Gabriele and Casale, Pierluigi and Albert, Paul S and Alison, Jennifer and Garcia-Aymerich, Judith and Costello, Richard W and Hernandes, Nidia A and van Gestel, Arnoldus JR and Leuppi, Jorg D and Mesquita, Rafael and others},
-  title =     {Identifying physical activity profiles in COPD patients using topic models},
-  journal =   {Biomedical and Health Informatics, IEEE Journal of},
-  year =      {2015},
-  volume =    {19},
-  number =    {5},
-  pages =     {1567--1576},
-  publisher = {IEEE}
+  Title                    = {Identifying physical activity profiles in COPD patients using topic models},
+  Author                   = {Spina, Gabriele and Casale, Pierluigi and Albert, Paul S and Alison, Jennifer and Garcia-Aymerich, Judith and Costello, Richard W and Hernandes, Nidia A and van Gestel, Arnoldus JR and Leuppi, Jorg D and Mesquita, Rafael and others},
+  Journal                  = {Biomedical and Health Informatics, IEEE Journal of},
+  Year                     = {2015},
+  Number                   = {5},
+  Pages                    = {1567--1576},
+  Volume                   = {19},
+  Publisher                = {IEEE}
 }
 
 @Article{spruit2004exercise,
@@ -1039,6 +1354,28 @@
   Pages                    = {243--248},
   Volume                   = {52},
   Publisher                = {Elsevier}
+}
+
+@Article{spruit2013official,
+  Title                    = {An official American Thoracic Society/European Respiratory Society statement: key concepts and advances in pulmonary rehabilitation},
+  Author                   = {Spruit, Martijn A and Singh, Sally J and Garvey, Chris and ZuWallack, Richard and Nici, Linda and Rochester, Carolyn and Hill, Kylie and Holland, Anne E and Lareau, Suzanne C and Man, William D-C and others},
+  Journal                  = {American journal of respiratory and critical care medicine},
+  Year                     = {2013},
+  Number                   = {8},
+  Pages                    = {e13--e64},
+  Volume                   = {188},
+  Publisher                = {Am Thoracic Soc}
+}
+
+@Article{spruit2015pulmonary,
+  Title                    = {Pulmonary Rehabilitation and Physical Activity in Patients with Chronic Obstructive Pulmonary Disease},
+  Author                   = {Spruit, Martijn A and Pitta, Fabio and McAuley, Edward and ZuWallack, Richard L and Nici, Linda},
+  Journal                  = {American journal of respiratory and critical care medicine},
+  Year                     = {2015},
+  Number                   = {8},
+  Pages                    = {924--933},
+  Volume                   = {192},
+  Publisher                = {Am Thoracic Soc}
 }
 
 @InProceedings{strohrmann2011out,
@@ -1059,6 +1396,17 @@
   Pages                    = {11--19}
 }
 
+@Article{trilk2012cluster,
+  Title                    = {A cluster analysis of physical activity and sedentary behavior patterns in middle school girls},
+  Author                   = {Trilk, Jennifer L and Pate, Russell R and Pfeiffer, Karin A and Dowda, Marsha and Addy, Cheryl L and Ribisl, Kurt M and Neumark-Sztainer, Dianne and Lytle, Leslie A},
+  Journal                  = {Journal of Adolescent Health},
+  Year                     = {2012},
+  Number                   = {3},
+  Pages                    = {292--298},
+  Volume                   = {51},
+  Publisher                = {Elsevier}
+}
+
 @Article{troosters2010physical,
   Title                    = {Physical inactivity in patients with COPD, a controlled multi-center pilot-study},
   Author                   = {Troosters, Thierry and Sciurba, Frank and Battaglia, Salvatore and Langer, Daniel and Valluri, Srinivas Rao and Martino, Lavinia and Benzo, Roberto and Andre, David and Weisman, Idelle and Decramer, Marc},
@@ -1071,13 +1419,13 @@
 }
 
 @Article{troosters2013improving,
-  author =  {Troosters, Thierry and van der Molen, Thys and Polkey, Michael and Rabinovich, Roberto A and Vogiatzis, Ioannis and Weisman, Idelle and Kulich, Karoly},
-  title =   {Improving physical activity in COPD: towards a new paradigm},
-  journal = {Respir Res},
-  year =    {2013},
-  volume =  {14},
-  number =  {1},
-  pages =   {115}
+  Title                    = {Improving physical activity in COPD: towards a new paradigm},
+  Author                   = {Troosters, Thierry and van der Molen, Thys and Polkey, Michael and Rabinovich, Roberto A and Vogiatzis, Ioannis and Weisman, Idelle and Kulich, Karoly},
+  Journal                  = {Respir Res},
+  Year                     = {2013},
+  Number                   = {1},
+  Pages                    = {115},
+  Volume                   = {14}
 }
 
 @InProceedings{tseng2009wireless,
@@ -1087,6 +1435,28 @@
   Year                     = {2009},
   Organization             = {IEEE},
   Pages                    = {359--360}
+}
+
+@Article{vaes2013effect,
+  Title                    = {Effect of ‘activity monitor-based’counseling on physical activity and health-related outcomes in patients with chronic diseases: a systematic review and meta-analysis},
+  Author                   = {Vaes, Anouk W and Cheung, Amy and Atakhorrami, Maryam and Groenen, Miriam TJ and Amft, Oliver and Franssen, Frits ME and Wouters, Emiel FM and Spruit, Martijn A},
+  Journal                  = {Annals of medicine},
+  Year                     = {2013},
+  Number                   = {5-6},
+  Pages                    = {397--412},
+  Volume                   = {45},
+  Publisher                = {Taylor \& Francis}
+}
+
+@Article{vanfleteren2013clusters,
+  Title                    = {Clusters of comorbidities based on validated objective measurements and systemic inflammation in patients with chronic obstructive pulmonary disease},
+  Author                   = {Vanfleteren, Lowie EGW and Spruit, Martijn A and Groenen, Miriam and Gaffron, Swetlana and van Empel, Vanessa PM and Bruijnzeel, Piet LB and Rutten, Erica PA and Op’t Roodt, Jos and Wouters, Emiel FM and Franssen, Frits ME},
+  Journal                  = {American journal of respiratory and critical care medicine},
+  Year                     = {2013},
+  Number                   = {7},
+  Pages                    = {728--735},
+  Volume                   = {187},
+  Publisher                = {Am Thoracic Soc}
 }
 
 @InProceedings{velloso2013motionma,
@@ -1137,6 +1507,17 @@
   Volume                   = {12}
 }
 
+@Article{waschki2012physical,
+  Title                    = {Physical activity monitoring in COPD: compliance and associations with clinical characteristics in a multicenter study},
+  Author                   = {Waschki, Benjamin and Spruit, Martijn A and Watz, Henrik and Albert, Paul S and Shrikrishna, Dinesh and Groenen, Miriam and Smith, Cayley and Man, William D-C and Tal-Singer, Ruth and Edwards, Lisa D and others},
+  Journal                  = {Respiratory medicine},
+  Year                     = {2012},
+  Number                   = {4},
+  Pages                    = {522--530},
+  Volume                   = {106},
+  Publisher                = {Elsevier}
+}
+
 @Article{watz2009physical,
   Title                    = {Physical activity in patients with COPD},
   Author                   = {Watz, Henrik and Waschki, Benjamin and Meyer, Thorsten and Magnussen, Helgo},
@@ -1156,6 +1537,17 @@
   Number                   = {6},
   Pages                    = {1521--1537},
   Volume                   = {44},
+  Publisher                = {Eur Respiratory Soc}
+}
+
+@Article{weatherall2009distinct,
+  Title                    = {Distinct clinical phenotypes of airways disease defined by cluster analysis},
+  Author                   = {Weatherall, M and Travers, J and Shirtcliffe, PM and Marsh, SE and Williams, MV and Nowitz, MR and Aldington, S and Beasley, R},
+  Journal                  = {European Respiratory Journal},
+  Year                     = {2009},
+  Number                   = {4},
+  Pages                    = {812--818},
+  Volume                   = {34},
   Publisher                = {Eur Respiratory Soc}
 }
 
@@ -1181,10 +1573,10 @@
 }
 
 @Misc{WHO_life,
-  title =        {{World Health Organizaiton, Life expectancy Data by country}},
-  howpublished = {http://apps.who.int/gho/data/node.main.688?lang=en},
-  year =         {2016},
-  note =         {[Online; accessed 19-February-2016]}
+  Title                    = {{World Health Organizaiton, Life expectancy Data by country}},
+  HowPublished             = {http://apps.who.int/gho/data/node.main.688?lang=en},
+  Note                     = {[Online; accessed 19-February-2016]},
+  Year                     = {2016}
 }
 
 @Article{wirth2015association,
