@@ -286,6 +286,14 @@
   Publisher                = {Eur Respiratory Soc}
 }
 
+@Article{centers2011national,
+  Title                    = {National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011},
+  Author                   = {Centers for Disease Control and Prevention (CDC) and Centers for Disease Control and Prevention (CDC) and others},
+  Journal                  = {Atlanta, GA: US Department of Health and Human Services, Centers for Disease Control and Prevention},
+  Year                     = {2011},
+  Volume                   = {201}
+}
+
 @Book{chang2007tracking,
   Title                    = {Tracking free-weight exercises},
   Author                   = {Chang, Keng-Hao and Chen, Mike Y and Canny, John},
@@ -302,6 +310,28 @@
   Pages                    = {2566--2570},
   Volume                   = {32},
   Publisher                = {Elsevier}
+}
+
+@Article{chau2013daily,
+  Title                    = {Daily sitting time and all-cause mortality: a meta-analysis},
+  Author                   = {Chau, Josephine Y and Grunseit, Anne C and Chey, Tien and Stamatakis, Emmanuel and Brown, Wendy J and Matthews, Charles E and Bauman, Adrian E and van der Ploeg, Hidde P},
+  Journal                  = {PLoS One},
+  Year                     = {2013},
+  Number                   = {11},
+  Pages                    = {e80000},
+  Volume                   = {8},
+  Publisher                = {Public Library of Science}
+}
+
+@Article{chau2013daily,
+  Title                    = {Daily sitting time and all-cause mortality: a meta-analysis},
+  Author                   = {Chau, Josephine Y and Grunseit, Anne C and Chey, Tien and Stamatakis, Emmanuel and Brown, Wendy J and Matthews, Charles E and Bauman, Adrian E and van der Ploeg, Hidde P},
+  Journal                  = {PLoS One},
+  Year                     = {2013},
+  Number                   = {11},
+  Pages                    = {e80000},
+  Volume                   = {8},
+  Publisher                = {Public Library of Science}
 }
 
 @InProceedings{cheplygina2014classification,
@@ -393,6 +423,15 @@
   Publisher                = {Wiley Online Library}
 }
 
+@Article{dawn2009pilot,
+  Title                    = {Pilot study of a cell phone-based exercise persistence intervention post-rehabilitation for COPD},
+  Author                   = {Dawn, P and Benditt, Joshua O},
+  Journal                  = {International Journal of Copd},
+  Year                     = {2009},
+  Pages                    = {301--313},
+  Volume                   = {4}
+}
+
 @InProceedings{de2008triplebeat,
   Title                    = {TripleBeat: enhancing exercise performance with persuasion},
   Author                   = {De Oliveira, Rodrigo and Oliver, Nuria},
@@ -400,6 +439,17 @@
   Year                     = {2008},
   Organization             = {ACM},
   Pages                    = {255--264}
+}
+
+@Article{de2013associations,
+  Title                    = {Associations of physical activity and sedentary time with weight and weight status among 10-to 12-year-old boys and girls in Europe: a cluster analysis within the ENERGY project},
+  Author                   = {De Bourdeaudhuij, Ilse and Verloigne, Ma{\"\i}t{\'e} and Maes, Lea and Van Lippevelde, Wendy and Chinapaw, MJM and Te Velde, SJ and Manios, Y and Androutsos, O and Kovacs, E and D{\"o}ssegger, A and others},
+  Journal                  = {Pediatric obesity},
+  Year                     = {2013},
+  Number                   = {5},
+  Pages                    = {367--375},
+  Volume                   = {8},
+  Publisher                = {Wiley Online Library}
 }
 
 @Article{deering2011acupuncture,
@@ -495,6 +545,17 @@
   Publisher                = {Eur Respiratory Soc}
 }
 
+@Article{duvivier2013minimal,
+  Title                    = {Minimal intensity physical activity (standing and walking) of longer duration improves insulin action and plasma lipids more than shorter periods of moderate to vigorous exercise (cycling) in sedentary subjects when energy expenditure is comparable},
+  Author                   = {Duvivier, Bernard MFM and Schaper, Nicolaas C and Bremers, Michelle A and van Crombrugge, Glenn and Menheere, Paul PCA and Kars, Marleen and Savelberg, Hans HCM},
+  Journal                  = {PloS one},
+  Year                     = {2013},
+  Number                   = {2},
+  Pages                    = {e55542},
+  Volume                   = {8},
+  Publisher                = {Public Library of Science}
+}
+
 @Article{egan2012short,
   Title                    = {Short term and long term effects of pulmonary rehabilitation on physical activity in COPD},
   Author                   = {Egan, Claire and Deering, Brenda M and Blake, Catherine and Fullen, Brona M and McCormack, Niamh M and Spruit, Martijn A and Costello, Richard W},
@@ -568,6 +629,17 @@
   Number                   = {7},
   Pages                    = {1334--1359},
   Volume                   = {43}
+}
+
+@Article{garcia2009physical,
+  Title                    = {Physical activity and clinical and functional status in COPD},
+  Author                   = {Garcia-Aymerich, Judith and Serra, Ignasi and G{\'o}mez, Federico P and Farrero, Eva and Balcells, Eva and Rodr{\'\i}guez, Diego A and de Batlle, Jordi and Gimeno, Elena and Donaire-Gonzalez, David and Orozco-Levi, Mauricio and others},
+  Journal                  = {CHEST Journal},
+  Year                     = {2009},
+  Number                   = {1},
+  Pages                    = {62--70},
+  Volume                   = {136},
+  Publisher                = {American College of Chest Physicians}
 }
 
 @Article{garcia2011identification,
@@ -989,6 +1061,16 @@
   Publisher                = {Elsevier}
 }
 
+@Article{loprinzi2014daily,
+  Title                    = {Daily movement patterns and biological markers among adults in the United States},
+  Author                   = {Loprinzi, Paul D and Lee, Hyo and Cardinal, Bradley J},
+  Journal                  = {Preventive medicine},
+  Year                     = {2014},
+  Pages                    = {128--130},
+  Volume                   = {60},
+  Publisher                = {Elsevier}
+}
+
 @Article{lozano2013global,
   Title                    = {Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010},
   Author                   = {Lozano, Rafael and Naghavi, Mohsen and Foreman, Kyle and Lim, Stephen and Shibuya, Kenji and Aboyans, Victor and Abraham, Jerry and Adair, Timothy and Aggarwal, Rakesh and Ahn, Stephanie Y and others},
@@ -998,6 +1080,17 @@
   Pages                    = {2095--2128},
   Volume                   = {380},
   Publisher                = {Elsevier}
+}
+
+@Article{mackey2011validation,
+  Title                    = {Validation of an armband to measure daily energy expenditure in older adults},
+  Author                   = {Mackey, Dawn C and Manini, Todd M and Schoeller, Dale A and Koster, Annemarie and Glynn, Nancy W and Goodpaster, Bret H and Satterfield, Suzanne and Newman, Anne B and Harris, Tamara B and Cummings, Steven R and others},
+  Journal                  = {The Journals of Gerontology Series A: Biological Sciences and Medical Sciences},
+  Year                     = {2011},
+  Number                   = {10},
+  Pages                    = {1108--1113},
+  Volume                   = {66},
+  Publisher                = {Oxford University Press}
 }
 
 @Article{marschollek2012decision,
@@ -1138,6 +1231,17 @@
   Year                     = {2009},
   Organization             = {IEEE},
   Pages                    = {234--239}
+}
+
+@Article{pau2014effect,
+  Title                    = {Effect of light and vigorous physical activity on balance and gait of older adults},
+  Author                   = {Pau, Massimiliano and Leban, Bruno and Collu, Giorgia and Migliaccio, Gian Mario},
+  Journal                  = {Archives of gerontology and geriatrics},
+  Year                     = {2014},
+  Number                   = {3},
+  Pages                    = {568--573},
+  Volume                   = {59},
+  Publisher                = {Elsevier}
 }
 
 @Article{pauwels2012global,
@@ -1396,6 +1500,16 @@
   Pages                    = {11--19}
 }
 
+@Article{tabak2012telemonitoring,
+  Title                    = {Telemonitoring of daily activity and symptom behavior in patients with COPD},
+  Author                   = {Tabak, Monique and Vollenbroek-Hutten, Miriam MR and van der Valk, Paul DLPM and van der Palen, Job and T{\"o}nis, Thijs M and Hermens, Hermie J},
+  Journal                  = {International journal of telemedicine and applications},
+  Year                     = {2012},
+  Pages                    = {15},
+  Volume                   = {2012},
+  Publisher                = {Hindawi Publishing Corp.}
+}
+
 @Article{trilk2012cluster,
   Title                    = {A cluster analysis of physical activity and sedentary behavior patterns in middle school girls},
   Author                   = {Trilk, Jennifer L and Pate, Russell R and Pfeiffer, Karin A and Dowda, Marsha and Addy, Cheryl L and Ribisl, Kurt M and Neumark-Sztainer, Dianne and Lytle, Leslie A},
@@ -1428,6 +1542,15 @@
   Volume                   = {14}
 }
 
+@Article{troosters2014tiotropium,
+  Title                    = {Tiotropium in patients with moderate COPD naive to maintenance therapy: a randomised placebo-controlled trial},
+  Author                   = {Troosters, Thierry and Sciurba, Frank C and Decramer, Marc and Siafakas, Nikos M and Klioze, Solomon S and Sutradhar, Santosh C and Weisman, Idelle M and Yunis, Carla},
+  Journal                  = {NPJ primary care respiratory medicine},
+  Year                     = {2014},
+  Volume                   = {24},
+  Publisher                = {Nature Publishing Group}
+}
+
 @InProceedings{tseng2009wireless,
   Title                    = {A wireless human motion capturing system for home rehabilitation},
   Author                   = {Tseng, Yu-Chee and Wu, Chin-Hao and Wu, Fang-Jing and Huang, Chi-Fu and King, Chung-Ta and Lin, Chun-Yu and Sheu, Jang-Ping and Chen, Chun-Yu and Lo, Chi-Yuan and Yang, Chien-Wen and others},
@@ -1457,6 +1580,17 @@
   Pages                    = {728--735},
   Volume                   = {187},
   Publisher                = {Am Thoracic Soc}
+}
+
+@Article{velloso2006study,
+  Title                    = {Study of energy expenditure during activities of daily living using and not using body position recommended by energy conservation techniques in patients with COPD},
+  Author                   = {Velloso, Marcelo and Jardim, Jos{\'e} R},
+  Journal                  = {CHEST Journal},
+  Year                     = {2006},
+  Number                   = {1},
+  Pages                    = {126--132},
+  Volume                   = {130},
+  Publisher                = {American College of Chest Physicians}
 }
 
 @InProceedings{velloso2013motionma,
@@ -1516,6 +1650,17 @@
   Pages                    = {522--530},
   Volume                   = {106},
   Publisher                = {Elsevier}
+}
+
+@Article{watz2009metabolic,
+  Title                    = {The metabolic syndrome in patients with chronic bronchitis and COPD: frequency and associated consequences for systemic inflammation and physical inactivity},
+  Author                   = {Watz, Henrik and Waschki, Benjamin and Kirsten, Anne and M{\"u}ller, Kai-Christian and Kretschmar, Gunther and Meyer, Thorsten and Holz, Olaf and Magnussen, Helgo},
+  Journal                  = {CHEST Journal},
+  Year                     = {2009},
+  Number                   = {4},
+  Pages                    = {1039--1046},
+  Volume                   = {136},
+  Publisher                = {American College of Chest Physicians}
 }
 
 @Article{watz2009physical,
@@ -1588,5 +1733,16 @@
   Pages                    = {773--778},
   Volume                   = {25},
   Publisher                = {Elsevier}
+}
+
+@Article{zogg2014differences,
+  Title                    = {Differences in classification of COPD patients into risk groups AD: a cross-sectional study},
+  Author                   = {Zogg, Stefanie and D{\"u}rr, Selina and Miedinger, David and Steveling, Esther H and Maier, Sabrina and Leuppi, J{\"o}rg D},
+  Journal                  = {BMC research notes},
+  Year                     = {2014},
+  Number                   = {1},
+  Pages                    = {562},
+  Volume                   = {7},
+  Publisher                = {BioMed Central Ltd}
 }
 
