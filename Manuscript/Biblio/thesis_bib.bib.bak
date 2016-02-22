@@ -1,7 +1,4 @@
-% Encoding: UTF-8
-
-
-@Article{agusti2011night,
+% Encoding: UTF-8@Article{agusti2011night,
   Title                    = {Night-time symptoms: a forgotten dimension of COPD},
   Author                   = {Agusti, A and Hedner, J and Marin, JM and Barb{\'e}, F and Cazzola, M and Rennard, S},
   Journal                  = {European Respiratory Review},
@@ -310,17 +307,6 @@
   Pages                    = {2566--2570},
   Volume                   = {32},
   Publisher                = {Elsevier}
-}
-
-@Article{chau2013daily,
-  Title                    = {Daily sitting time and all-cause mortality: a meta-analysis},
-  Author                   = {Chau, Josephine Y and Grunseit, Anne C and Chey, Tien and Stamatakis, Emmanuel and Brown, Wendy J and Matthews, Charles E and Bauman, Adrian E and van der Ploeg, Hidde P},
-  Journal                  = {PLoS One},
-  Year                     = {2013},
-  Number                   = {11},
-  Pages                    = {e80000},
-  Volume                   = {8},
-  Publisher                = {Public Library of Science}
 }
 
 @Article{chau2013daily,
@@ -1080,6 +1066,16 @@
   Pages                    = {2095--2128},
   Volume                   = {380},
   Publisher                = {Elsevier}
+}
+
+@Article{lukowicz2008wearable,
+  Title                    = {Wearable computing and artificial intelligence for healthcare applications.},
+  Author                   = {Lukowicz, P},
+  Journal                  = {Artificial intelligence in medicine},
+  Year                     = {2008},
+  Number                   = {2},
+  Pages                    = {95},
+  Volume                   = {42}
 }
 
 @Article{mackey2011validation,
