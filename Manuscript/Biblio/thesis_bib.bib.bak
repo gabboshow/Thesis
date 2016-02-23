@@ -1,4 +1,7 @@
-% Encoding: UTF-8@Article{agusti2011night,
+% Encoding: UTF-8
+
+
+@Article{agusti2011night,
   Title                    = {Night-time symptoms: a forgotten dimension of COPD},
   Author                   = {Agusti, A and Hedner, J and Marin, JM and Barb{\'e}, F and Cazzola, M and Rennard, S},
   Journal                  = {European Respiratory Review},
@@ -95,14 +98,14 @@
 }
 
 @Article{beeh2013effects,
-  author =    {Beeh, Kai M and Watz, Henrik and Magnussen, Helgo and Puente-Maestu, Luis and Jarreta, Diana and Caracta, Cynthia and Gil, Esther Garcia},
-  title =     {Effects of aclidinium bromide on exercise endurance, dynamic hyperinflation, physical activity and exertional dyspnoea in patients with moderate to severe COPD},
-  journal =   {European Respiratory Journal},
-  year =      {2013},
-  volume =    {42},
-  number =    {Suppl 57},
-  pages =     {3035},
-  publisher = {Eur Respiratory Soc}
+  Title                    = {Effects of aclidinium bromide on exercise endurance, dynamic hyperinflation, physical activity and exertional dyspnoea in patients with moderate to severe COPD},
+  Author                   = {Beeh, Kai M and Watz, Henrik and Magnussen, Helgo and Puente-Maestu, Luis and Jarreta, Diana and Caracta, Cynthia and Gil, Esther Garcia},
+  Journal                  = {European Respiratory Journal},
+  Year                     = {2013},
+  Number                   = {Suppl 57},
+  Pages                    = {3035},
+  Volume                   = {42},
+  Publisher                = {Eur Respiratory Soc}
 }
 
 @Article{beeh2014aclidinium,
@@ -361,14 +364,14 @@
 }
 
 @Article{cockayne2012systemic,
-  author =    {Cockayne, Debra A and Cheng, Donavan T and Waschki, Benjamin and Sridhar, Sriram and Ravindran, Palanikumar and Hilton, Holly and Kourteva, Galina and Bitter, Hans and Pillai, Sreekumar G and Visvanathan, Sudha and others},
-  title =     {Systemic biomarkers of neutrophilic inflammation, tissue injury and repair in COPD patients with differing levels of disease severity},
-  journal =   {PLoS One},
-  year =      {2012},
-  volume =    {7},
-  number =    {6},
-  pages =     {e38629},
-  publisher = {Public Library of Science}
+  Title                    = {Systemic biomarkers of neutrophilic inflammation, tissue injury and repair in COPD patients with differing levels of disease severity},
+  Author                   = {Cockayne, Debra A and Cheng, Donavan T and Waschki, Benjamin and Sridhar, Sriram and Ravindran, Palanikumar and Hilton, Holly and Kourteva, Galina and Bitter, Hans and Pillai, Sreekumar G and Visvanathan, Sudha and others},
+  Journal                  = {PLoS One},
+  Year                     = {2012},
+  Number                   = {6},
+  Pages                    = {e38629},
+  Volume                   = {7},
+  Publisher                = {Public Library of Science}
 }
 
 @Article{codagnone2009reconstructing,
@@ -493,17 +496,6 @@
   Publisher                = {American Association for Respiratory Care}
 }
 
-@Article{depew2013correlations,
-  author =    {DePew, Zachary S and Karpman, Craig and Novotny, Paul J and Benzo, Roberto P},
-  title =     {Correlations between gait speed, 6-minute walk distance, physical activity, and self-efficacy in patients with severe chronic lung disease},
-  journal =   {Respiratory care},
-  year =      {2013},
-  volume =    {58},
-  number =    {12},
-  pages =     {2113--2119},
-  publisher = {American Association for Respiratory Care}
-}
-
 @Article{derom2008primary,
   Title                    = {Primary care spirometry*},
   Author                   = {Derom, Eric and Van Weel, Chris and Liistro, Giuseppe and Buffels, Johan and Schermer, Tjard and Lammers, Ernst and Wouters, Emiel and Decramer, Marc},
@@ -565,14 +557,14 @@
 }
 
 @Article{durr2014daily,
-  author =    {D{\"u}rr, Selina and Zogg, Stefanie and Miedinger, David and Steveling, Esther Helen and Maier, Sabrina and Leuppi, J{\"o}rg Daniel},
-  title =     {Daily physical activity, functional capacity and quality of life in patients with COPD},
-  journal =   {COPD: Journal of Chronic Obstructive Pulmonary Disease},
-  year =      {2014},
-  volume =    {11},
-  number =    {6},
-  pages =     {689--696},
-  publisher = {Taylor \& Francis}
+  Title                    = {Daily physical activity, functional capacity and quality of life in patients with COPD},
+  Author                   = {D{\"u}rr, Selina and Zogg, Stefanie and Miedinger, David and Steveling, Esther Helen and Maier, Sabrina and Leuppi, J{\"o}rg Daniel},
+  Journal                  = {COPD: Journal of Chronic Obstructive Pulmonary Disease},
+  Year                     = {2014},
+  Number                   = {6},
+  Pages                    = {689--696},
+  Volume                   = {11},
+  Publisher                = {Taylor \& Francis}
 }
 
 @Article{duvivier2013minimal,
@@ -662,14 +654,14 @@
 }
 
 @Article{garcia2009phenotypic,
-  author =    {Garcia-Aymerich, Judith and G{\'o}mez, Federico P and Ant{\'o}, Josep M and PAC-COPD research group and others},
-  title =     {Phenotypic characterization and course of chronic obstructive pulmonary disease in the PAC-COPD Study: design and methods},
-  journal =   {Archivos de Bronconeumolog{\'\i}a ((English Edition))},
-  year =      {2009},
-  volume =    {45},
-  number =    {1},
-  pages =     {4--11},
-  publisher = {Elsevier}
+  Title                    = {Phenotypic characterization and course of chronic obstructive pulmonary disease in the PAC-COPD Study: design and methods},
+  Author                   = {Garcia-Aymerich, Judith and G{\'o}mez, Federico P and Ant{\'o}, Josep M and PAC-COPD research group and others},
+  Journal                  = {Archivos de Bronconeumolog{\'\i}a ((English Edition))},
+  Year                     = {2009},
+  Number                   = {1},
+  Pages                    = {4--11},
+  Volume                   = {45},
+  Publisher                = {Elsevier}
 }
 
 @Article{garcia2009physical,
@@ -876,14 +868,14 @@
 }
 
 @Article{hernandes2013variable,
-  author =    {Hernandes, Nidia Aparecida and Sant'Anna, Tha{\'\i}s and Furlanetto, Karina and Probst, Vanessa Suziane and Pitta, Fabio},
-  title =     {Which is the variable of physical activity monitoring that better correlates with functional exercise capacity in COPD?},
-  journal =   {European Respiratory Journal},
-  year =      {2013},
-  volume =    {42},
-  number =    {Suppl 57},
-  pages =     {1983},
-  publisher = {Eur Respiratory Soc}
+  Title                    = {Which is the variable of physical activity monitoring that better correlates with functional exercise capacity in COPD?},
+  Author                   = {Hernandes, Nidia Aparecida and Sant'Anna, Tha{\'\i}s and Furlanetto, Karina and Probst, Vanessa Suziane and Pitta, Fabio},
+  Journal                  = {European Respiratory Journal},
+  Year                     = {2013},
+  Number                   = {Suppl 57},
+  Pages                    = {1983},
+  Volume                   = {42},
+  Publisher                = {Eur Respiratory Soc}
 }
 
 @Article{hill2010measurement,
@@ -969,23 +961,23 @@
 }
 
 @Article{karpman2013measuring,
-  author =    {Karpman, Craig and LeBrasseur, Nathan K and DePew, Zachary S and Novotny, Paul J and Benzo, Roberto P},
-  title =     {Measuring gait speed in the outpatient clinic: methodology and feasibility},
-  journal =   {Respiratory care},
-  year =      {2013},
-  pages =     {respcare--02688},
-  publisher = {American Association for Respiratory Care}
+  Title                    = {Measuring gait speed in the outpatient clinic: methodology and feasibility},
+  Author                   = {Karpman, Craig and LeBrasseur, Nathan K and DePew, Zachary S and Novotny, Paul J and Benzo, Roberto P},
+  Journal                  = {Respiratory care},
+  Year                     = {2013},
+  Pages                    = {respcare--02688},
+  Publisher                = {American Association for Respiratory Care}
 }
 
 @Article{karpman2014effect,
-  author =    {Karpman, C and Benzo, R and Novotny, P and Abascal-Bolado, B},
-  title =     {The Effect Of Hospitalization On Physical Activity Level In Chronic Obstructive Pulmonary Disease},
-  journal =   {Hospital},
-  year =      {2014},
-  volume =    {2},
-  number =    {2},
-  pages =     {2--3},
-  publisher = {Am Thoracic Soc}
+  Title                    = {The Effect Of Hospitalization On Physical Activity Level In Chronic Obstructive Pulmonary Disease},
+  Author                   = {Karpman, C and Benzo, R and Novotny, P and Abascal-Bolado, B},
+  Journal                  = {Hospital},
+  Year                     = {2014},
+  Number                   = {2},
+  Pages                    = {2--3},
+  Volume                   = {2},
+  Publisher                = {Am Thoracic Soc}
 }
 
 @InProceedings{karuppanan2012comprehensive,
@@ -1195,6 +1187,14 @@
   Pages                    = {518--530},
   Volume                   = {5},
   Publisher                = {SAGE Publications}
+}
+
+@Article{mesquita2016physical,
+  Title                    = {Physical activity patterns and clusters in 1001 patients with COPD},
+  Author                   = {Mesquita, Rafael and Spina, Gabriele and others},
+  Journal                  = {Submitted to the Journal of Chronic Respiratory Disease},
+  Year                     = {2016},
+  Publisher                = {SAGE}
 }
 
 @InProceedings{miwa2007roll,
@@ -1423,25 +1423,25 @@
 }
 
 @Article{romme2012bone,
-  author =    {Romme, Elisabeth APM and Murchison, John T and Phang, Kee F and Jansen, Frits H and Rutten, Erica and Wouters, Emiel FM and Smeenk, Frank WJM and Van Beek, Edwin JR and MacNee, William},
-  title =     {Bone attenuation on routine chest CT correlates with bone mineral density on DXA in patients with COPD},
-  journal =   {Journal of Bone and Mineral Research},
-  year =      {2012},
-  volume =    {27},
-  number =    {11},
-  pages =     {2338--2343},
-  publisher = {Wiley Online Library}
+  Title                    = {Bone attenuation on routine chest CT correlates with bone mineral density on DXA in patients with COPD},
+  Author                   = {Romme, Elisabeth APM and Murchison, John T and Phang, Kee F and Jansen, Frits H and Rutten, Erica and Wouters, Emiel FM and Smeenk, Frank WJM and Van Beek, Edwin JR and MacNee, William},
+  Journal                  = {Journal of Bone and Mineral Research},
+  Year                     = {2012},
+  Number                   = {11},
+  Pages                    = {2338--2343},
+  Volume                   = {27},
+  Publisher                = {Wiley Online Library}
 }
 
 @Article{romme2013bone,
-  author =    {Romme, Elisabeth APM and Rutten, Erica and Geusens, Piet and de Jong, Joost JA and van Rietbergen, Bert and Smeenk, Frank WJM and Wouters, Emiel FM and van den Bergh, Joop PW},
-  title =     {Bone stiffness and failure load are related with clinical parameters in men with chronic obstructive pulmonary disease},
-  journal =   {Journal of Bone and Mineral Research},
-  year =      {2013},
-  volume =    {28},
-  number =    {10},
-  pages =     {2186--2193},
-  publisher = {Wiley Online Library}
+  Title                    = {Bone stiffness and failure load are related with clinical parameters in men with chronic obstructive pulmonary disease},
+  Author                   = {Romme, Elisabeth APM and Rutten, Erica and Geusens, Piet and de Jong, Joost JA and van Rietbergen, Bert and Smeenk, Frank WJM and Wouters, Emiel FM and van den Bergh, Joop PW},
+  Journal                  = {Journal of Bone and Mineral Research},
+  Year                     = {2013},
+  Number                   = {10},
+  Pages                    = {2186--2193},
+  Volume                   = {28},
+  Publisher                = {Wiley Online Library}
 }
 
 @InProceedings{ross2014dual,
@@ -1454,14 +1454,14 @@
 }
 
 @Article{rubner2000earth,
-  author =    {Rubner, Yossi and Tomasi, Carlo and Guibas, Leonidas J},
-  title =     {The earth mover's distance as a metric for image retrieval},
-  journal =   {International journal of computer vision},
-  year =      {2000},
-  volume =    {40},
-  number =    {2},
-  pages =     {99--121},
-  publisher = {Springer}
+  Title                    = {The earth mover's distance as a metric for image retrieval},
+  Author                   = {Rubner, Yossi and Tomasi, Carlo and Guibas, Leonidas J},
+  Journal                  = {International journal of computer vision},
+  Year                     = {2000},
+  Number                   = {2},
+  Pages                    = {99--121},
+  Volume                   = {40},
+  Publisher                = {Springer}
 }
 
 @InProceedings{saria2011discovering,
@@ -1551,6 +1551,24 @@
   Pages                    = {h100},
   Volume                   = {350},
   Publisher                = {British Medical Journal Publishing Group}
+}
+
+@InProceedings{spina2013copdtrainer,
+  Title                    = {COPDTrainer: a smartphone-based motion rehabilitation training system with real-time acoustic feedback},
+  Author                   = {Spina, Gabriele and Huang, Guannan and Vaes, Anouk and Spruit, Martijn and Amft, Oliver},
+  Booktitle                = {Proceedings of the 2013 ACM international joint conference on Pervasive and ubiquitous computing},
+  Year                     = {2013},
+  Organization             = {ACM},
+  Pages                    = {597--606}
+}
+
+@InProceedings{spina2013crntc,
+  Title                    = {CRNTC+: A smartphone-based sensor processing framework for prototyping personal healthcare applications},
+  Author                   = {Spina, Gabriele and Roberts, Frank and Weppner, Jens and Lukowicz, Paul and Amft, Oliver},
+  Booktitle                = {Pervasive Computing Technologies for Healthcare (PervasiveHealth), 2013 7th International Conference on},
+  Year                     = {2013},
+  Organization             = {IEEE},
+  Pages                    = {252--255}
 }
 
 @Article{spina2015identifying,
@@ -1687,14 +1705,14 @@
 }
 
 @Article{van2012predicting,
-  author =    {van Gestel, Arnoldus JR and Clarenbach, Christian F and St{\"o}whas, Anne C and Rossi, Valentina A and Sievi, Noriane A and Camen, Giovanni and Russi, Erich W and Kohler, Malcolm},
-  title =     {Predicting daily physical activity in patients with chronic obstructive pulmonary disease},
-  journal =   {PloS one},
-  year =      {2012},
-  volume =    {7},
-  number =    {11},
-  pages =     {e48081},
-  publisher = {Public Library of Science}
+  Title                    = {Predicting daily physical activity in patients with chronic obstructive pulmonary disease},
+  Author                   = {van Gestel, Arnoldus JR and Clarenbach, Christian F and St{\"o}whas, Anne C and Rossi, Valentina A and Sievi, Noriane A and Camen, Giovanni and Russi, Erich W and Kohler, Malcolm},
+  Journal                  = {PloS one},
+  Year                     = {2012},
+  Number                   = {11},
+  Pages                    = {e48081},
+  Volume                   = {7},
+  Publisher                = {Public Library of Science}
 }
 
 @Article{vanfleteren2013clusters,
@@ -1729,14 +1747,14 @@
 }
 
 @Article{vestbo2008evaluation,
-  author =    {Vestbo, J{\o}rgen and Anderson, Wayne and Coxson, Harvey O and Crim, Courtney and Dawber, Ffyona and Edwards, Lisa and Hagan, Gerry and Knobil, Katharine and Lomas, David A and MacNee, William and others},
-  title =     {Evaluation of COPD longitudinally to identify predictive surrogate end-points (ECLIPSE)},
-  journal =   {European Respiratory Journal},
-  year =      {2008},
-  volume =    {31},
-  number =    {4},
-  pages =     {869--873},
-  publisher = {Eur Respiratory Soc}
+  Title                    = {Evaluation of COPD longitudinally to identify predictive surrogate end-points (ECLIPSE)},
+  Author                   = {Vestbo, J{\o}rgen and Anderson, Wayne and Coxson, Harvey O and Crim, Courtney and Dawber, Ffyona and Edwards, Lisa and Hagan, Gerry and Knobil, Katharine and Lomas, David A and MacNee, William and others},
+  Journal                  = {European Respiratory Journal},
+  Year                     = {2008},
+  Number                   = {4},
+  Pages                    = {869--873},
+  Volume                   = {31},
+  Publisher                = {Eur Respiratory Soc}
 }
 
 @Article{vestbo2013global,
@@ -1779,14 +1797,14 @@
 }
 
 @Article{waschki2012decrease,
-  author =    {Waschki, Benjamin and Schaper, Miriam and Sack, Anna-Lena and Holz, Olaf and Kirsten, Anne and Meyer, Thorsten and Rabe, Klaus F and Magnussen, Helgo and Watz, Henrik},
-  title =     {Decrease of physical activity in patients with COPD in the course of the disease},
-  journal =   {European Respiratory Journal},
-  year =      {2012},
-  volume =    {40},
-  number =    {Suppl 56},
-  pages =     {3091},
-  publisher = {Eur Respiratory Soc}
+  Title                    = {Decrease of physical activity in patients with COPD in the course of the disease},
+  Author                   = {Waschki, Benjamin and Schaper, Miriam and Sack, Anna-Lena and Holz, Olaf and Kirsten, Anne and Meyer, Thorsten and Rabe, Klaus F and Magnussen, Helgo and Watz, Henrik},
+  Journal                  = {European Respiratory Journal},
+  Year                     = {2012},
+  Number                   = {Suppl 56},
+  Pages                    = {3091},
+  Volume                   = {40},
+  Publisher                = {Eur Respiratory Soc}
 }
 
 @Article{waschki2012physical,
@@ -1801,14 +1819,14 @@
 }
 
 @Article{watz2008extrapulmonary,
-  author =    {Watz, Henrik and Waschki, Benjamin and Boehme, Corinna and Claussen, Martin and Meyer, Thorsten and Magnussen, Helgo},
-  title =     {Extrapulmonary effects of chronic obstructive pulmonary disease on physical activity: a cross-sectional study},
-  journal =   {American journal of respiratory and critical care medicine},
-  year =      {2008},
-  volume =    {177},
-  number =    {7},
-  pages =     {743--751},
-  publisher = {Am Thoracic Soc}
+  Title                    = {Extrapulmonary effects of chronic obstructive pulmonary disease on physical activity: a cross-sectional study},
+  Author                   = {Watz, Henrik and Waschki, Benjamin and Boehme, Corinna and Claussen, Martin and Meyer, Thorsten and Magnussen, Helgo},
+  Journal                  = {American journal of respiratory and critical care medicine},
+  Year                     = {2008},
+  Number                   = {7},
+  Pages                    = {743--751},
+  Volume                   = {177},
+  Publisher                = {Am Thoracic Soc}
 }
 
 @Article{watz2009metabolic,
@@ -1834,24 +1852,24 @@
 }
 
 @Article{watz2013aclidinium,
-  author =    {Watz, H and Magnussen, H and Puente-Maestu, L and Jarreta, D and Caracta, C and Gil, E Garcia and Beeh, K},
-  title =     {Aclidinium Bromide Improves Exercise Endurance And Dynamic Hyperinflation And Decreases Exertional Dyspnoea In Patients With Moderate-To-Severe COPD},
-  journal =   {Am J Respir Crit Care Med},
-  year =      {2013},
-  volume =    {187},
-  pages =     {A2430},
-  publisher = {Am Thoracic Soc}
+  Title                    = {Aclidinium Bromide Improves Exercise Endurance And Dynamic Hyperinflation And Decreases Exertional Dyspnoea In Patients With Moderate-To-Severe COPD},
+  Author                   = {Watz, H and Magnussen, H and Puente-Maestu, L and Jarreta, D and Caracta, C and Gil, E Garcia and Beeh, K},
+  Journal                  = {Am J Respir Crit Care Med},
+  Year                     = {2013},
+  Pages                    = {A2430},
+  Volume                   = {187},
+  Publisher                = {Am Thoracic Soc}
 }
 
 @Article{watz2013effect,
-  author =    {Watz, Henrik and Beeh, Kai M and Magnussen, Helgo and de Theresa, Luis and Jarreta, Diana and Caracta, Cynthia and Gil, Esther Garcia},
-  title =     {Effect of aclidinium bromide on static lung function and hyperinflation in patients with moderate to severe COPD},
-  journal =   {European Respiratory Journal},
-  year =      {2013},
-  volume =    {42},
-  number =    {Suppl 57},
-  pages =     {4633},
-  publisher = {Eur Respiratory Soc}
+  Title                    = {Effect of aclidinium bromide on static lung function and hyperinflation in patients with moderate to severe COPD},
+  Author                   = {Watz, Henrik and Beeh, Kai M and Magnussen, Helgo and de Theresa, Luis and Jarreta, Diana and Caracta, Cynthia and Gil, Esther Garcia},
+  Journal                  = {European Respiratory Journal},
+  Year                     = {2013},
+  Number                   = {Suppl 57},
+  Pages                    = {4633},
+  Volume                   = {42},
+  Publisher                = {Eur Respiratory Soc}
 }
 
 @Article{watz2014official,
@@ -1915,14 +1933,17 @@
   Publisher                = {Elsevier}
 }
 
-@Article{zogg2014differences,
-  Title                    = {Differences in classification of COPD patients into risk groups AD: a cross-sectional study},
-  Author                   = {Zogg, Stefanie and D{\"u}rr, Selina and Miedinger, David and Steveling, Esther H and Maier, Sabrina and Leuppi, J{\"o}rg D},
-  Journal                  = {BMC research notes},
+@Article{wootton2014estimating,
+  Title                    = {Estimating endurance shuttle walk test speed using the six-minute walk test in people with chronic obstructive pulmonary disease},
+  Author                   = {Wootton, Sally L and Ng, Cindy and McKeough, Zoe J and Jenkins, Sue and Hill, Kylie and Alison, Jennifer A},
+  Journal                  = {Chronic respiratory disease},
   Year                     = {2014},
-  Number                   = {1},
-  Pages                    = {562},
-  Volume                   = {7},
-  Publisher                = {BioMed Central Ltd}
+  Number                   = {2},
+  Pages                    = {89--94},
+  Volume                   = {11},
+  Publisher                = {SAGE Publications}
+}
+
+@Article{,
 }
 
