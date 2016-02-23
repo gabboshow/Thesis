@@ -1582,6 +1582,20 @@
   Publisher                = {IEEE}
 }
 
+@Article{spina2016estimated,
+  Title                    = {Estimated nocturnal sleep impairment in patients with COPD in daily life and its association with daytime physical activity},
+  Author                   = {Spina, Gabriele and others},
+  Journal                  = {To be submitted},
+  Year                     = {2016}
+}
+
+@Article{spina2016topic,
+  author =  {Spina, Gabriele and others},
+  title =   {Topic models-based features from nighttime data for classification of patients with COPD},
+  journal = {To be submitted},
+  year =    {2016}
+}
+
 @Article{spruit2004exercise,
   Title                    = {Exercise training during rehabilitation of patients with COPD: a current perspective},
   Author                   = {Spruit, Martijn A and Troosters, Thierry and Trappenburg, Jacob CA and Decramer, Marc and Gosselink, Rik},
@@ -1942,8 +1956,5 @@
   Pages                    = {89--94},
   Volume                   = {11},
   Publisher                = {SAGE Publications}
-}
-
-@Article{,
 }
 
