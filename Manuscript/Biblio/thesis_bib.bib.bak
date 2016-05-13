@@ -109,14 +109,14 @@
 }
 
 @Article{beeh2014aclidinium,
-  Title                    = {Aclidinium improves exercise endurance, dyspnea, lung hyperinflation, and physical activity in patients with COPD: a randomized, placebo-controlled, crossover trial},
-  Author                   = {Beeh, Kai M and Watz, Henrik and Puente-Maestu, Luis and de Teresa, Luis and Jarreta, Diana and Caracta, Cynthia and Gil, Esther Garcia and Magnussen, Helgo},
-  Journal                  = {BMC pulmonary medicine},
-  Year                     = {2014},
-  Number                   = {1},
-  Pages                    = {1},
-  Volume                   = {14},
-  Publisher                = {BioMed Central}
+  author =    {Beeh, Kai M and Watz, Henrik and Puente-Maestu, Luis and de Teresa, Luis and Jarreta, Diana and Caracta, Cynthia and Gil, Esther Garcia and Magnussen, Helgo},
+  title =     {Aclidinium improves exercise endurance, dyspnea, lung hyperinflation, and physical activity in patients with {COPD}: a randomized, placebo-controlled, crossover trial},
+  journal =   {BMC pulmonary medicine},
+  year =      {2014},
+  volume =    {14},
+  number =    {1},
+  pages =     {1},
+  publisher = {BioMed Central}
 }
 
 @Article{bellos2014identification,
@@ -1011,6 +1011,17 @@
   Pages                    = {755--761},
   Volume                   = {83},
   Publisher                = {American College of Chest Physicians}
+}
+
+@Article{klink1994relation,
+  author =    {Klink, Mary E and Dodge, Russell and Quan, Stuart F},
+  title =     {The relation of sleep complaints to respiratory symptoms in a general population.},
+  journal =   {Chest Journal},
+  year =      {1994},
+  volume =    {105},
+  number =    {1},
+  pages =     {151--154},
+  publisher = {American College of Chest Physicians}
 }
 
 @Article{koop2008future,
